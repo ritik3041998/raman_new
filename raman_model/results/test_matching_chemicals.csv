@@ -1,0 +1,68 @@
+﻿spectrum,true_label,prediction,match
+13,Potassium Nitrate,Potassium Nitrate,yes
+14,Potassium Nitrate,Potassium Nitrate,yes
+164,Potassium Nitrate,toluene,no
+180,Potassium Nitrate,Potassium Nitrate,yes
+181,Potassium Nitrate,Potassium Nitrate,yes
+189,Potassium Nitrate,Potassium Nitrate,yes
+190,Potassium Nitrate,caesium nitrate,no
+198,Potassium Nitrate,nitrocalcite,no
+199,Potassium Nitrate,Potassium Nitrate,yes
+265,Sodium Nitrate,Sodium Nitrate,yes
+266,Sodium Nitrate,Sodium Nitrate,yes
+267,Sodium Nitrate,Sodium Nitrate,yes
+268,Sodium Nitrate,Sodium Nitrate,yes
+269,Sodium Nitrate,Sodium Nitrate,yes
+270,Sodium Nitrate,Sodium Nitrate,yes
+271,Sodium Nitrate,Sodium Nitrate,yes
+272,Sodium Nitrate,Sodium Nitrate,yes
+273,Sodium Nitrate,Sodium Nitrate,yes
+274,Sodium Nitrate,Sodium Nitrate,yes
+275,Sodium Nitrate,Sodium Nitrate,yes
+292,Potassium Nitrate,Potassium Nitrate,yes
+293,Potassium Nitrate,Potassium Nitrate,yes
+294,Potassium Nitrate,Potassium Nitrate,yes
+295,Potassium Nitrate,Potassium Nitrate,yes
+296,Potassium Nitrate,Potassium Nitrate,yes
+298,Sodium Nitrate,Sodium Nitrate,yes
+299,Sodium Nitrate,Sodium Nitrate,yes
+301,Sodium Nitrate,Sodium Nitrate,yes
+302,Sodium Nitrate,Sodium Nitrate,yes
+360,Potassium Nitrate,caesium nitrate,no
+363,Potassium Nitrate,nitrocalcite,no
+364,Potassium Nitrate,Potassium Nitrate,yes
+365,Potassium Nitrate,Potassium Nitrate,yes
+368,Potassium Nitrate,Potassium Nitrate,yes
+370,Potassium Nitrate,Potassium Nitrate,yes
+371,Potassium Nitrate,caesium nitrate,no
+372,Potassium Nitrate,caesium nitrate,no
+373,Potassium Nitrate,Potassium Nitrate,yes
+375,Potassium Nitrate,Potassium Nitrate,yes
+376,Potassium Nitrate,Potassium Nitrate,yes
+388,Potassium Nitrate,Potassium Nitrate,yes
+395,Potassium Nitrate,Potassium Nitrate,yes
+398,Potassium Nitrate,Potassium Nitrate,yes
+405,Potassium Nitrate,Potassium Nitrate,yes
+406,Potassium Nitrate,Potassium Nitrate,yes
+407,Potassium Nitrate,caesium nitrate,no
+410,Potassium Nitrate,Potassium Nitrate,yes
+411,Potassium Nitrate,caesium nitrate,no
+622,Sodium Nitrate,Sodium Nitrate,yes
+623,Sodium Nitrate,Sodium Nitrate,yes
+624,Sodium Nitrate,Sodium Nitrate,yes
+628,Sodium Nitrate,Sodium Nitrate,yes
+629,Sodium Nitrate,Sodium Nitrate,yes
+700,Acetone,Acetone,yes
+701,Acetone,Acetone,yes
+705,Acetone,Acetone,yes
+706,Acetone,Acetone,yes
+708,Acetone,Acetone,yes
+710,Acetone,Acetone,yes
+711,Acetone,Acetone,yes
+712,Acetone,Acetone,yes
+713,Acetone,Acetone,yes
+714,Acetone,Acetone,yes
+715,Acetone,Acetone,yes
+716,Acetone,Acetone,yes
+717,Acetone,Acetone,yes
+718,Acetone,Acetone,yes

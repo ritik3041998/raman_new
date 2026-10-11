@@ -1,0 +1,46 @@
+Spectra: 4120   classes: 360   grid: 450-1800 cm-1, 1351 points
+  Solvents                   spectra= 3505 classes=  31
+  Excipients                 spectra=  150 classes=  56
+  Biomolecules               spectra=  202 classes= 141
+  Inorganic crystals (ROD)   spectra=  252 classes= 127
+  Drug adulterants           spectra=   11 classes=  11
+Classes by number of real spectra: 1: 170, 2: 84, 3-5: 69, 6-50: 6, >50: 31
+  raw intensity range Solvents                   min=117 median=2.64e+03 max=9.33e+04
+  raw intensity range Excipients                 min=8.84e-05 median=9.28e+04 max=6.96e+05
+  raw intensity range Biomolecules               min=0 median=0.0659 max=1
+  raw intensity range Inorganic crystals (ROD)   min=-207 median=58.7 max=5.52e+04
+  raw intensity range Drug adulterants           min=0.00276 median=0.0454 max=16.7
+PCA components needed for 90 / 95 / 99 % variance: 28 41 87
+Class pairs with cosine similarity > 0.98: 33   > 0.95: 135
+Most similar class pairs:
+  1.000  estradiol  <->  estriol
+  0.998  triarachidin  <->  tribehenin
+  0.996  triarachidin  <->  tristearin
+  0.994  tripalmitin  <->  tristearin
+  0.994  tribehenin  <->  tristearin
+  0.993  trimyristin  <->  tripalmitin
+  0.993  trilaurin  <->  trimyristin
+  0.992  boric acid  <->  boron trioxide
+  0.992  triarachidin  <->  tripalmitin
+  0.992  acetildenafil  <->  sildenafil citrate
+  0.992  alpha propylene glycol  <->  beta propylene glycol
+  0.991  trypsin  <->  trypsinogen
+  0.991  trimyristin  <->  tristearin
+  0.990  oleic acid  <->  vaccenic acid
+  0.990  triolein  <->  tripalmitolein
+  0.990  tribehenin  <->  tripalmitin
+  0.988  amylose  <->  starch
+  0.987  triolein  <->  vaccenic acid
+  0.986  triarachidin  <->  trimyristin
+  0.986  oleic acid  <->  triolein
+  0.986  trilaurin  <->  tripalmitin
+  0.986  tri-11-eicosenoin  <->  triolein
+  0.984  tricaprin  <->  trilaurin
+  0.984  lectin  <->  thaumatin
+  0.983  lectin  <->  pepsinogen
+  peak-to-noise (median) Solvents                       76.1
+  peak-to-noise (median) Excipients                     66.4
+  peak-to-noise (median) Biomolecules                   72.2
+  peak-to-noise (median) Inorganic crystals (ROD)       79.6
+  peak-to-noise (median) Drug adulterants               73.3
+Exact duplicate spectra present: no

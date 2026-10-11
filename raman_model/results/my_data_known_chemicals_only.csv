@@ -1,0 +1,72 @@
+row,true_label,model_name,top1,top2,top3,top4,top5,best_match_similarity,correct_top1,correct_top5
+12,Potassium Nitrate,potassium nitrate,potassium nitrate,nitrocalcite,caesium carbonate,caesium nitrate,lead nitrate,0.895,1,1
+13,Potassium Nitrate,potassium nitrate,potassium nitrate,nitrocalcite,caesium carbonate,caesium nitrate,bismuth trinitrate,0.887,1,1
+163,Potassium Nitrate,potassium nitrate,toluene,acetone,ceria,potassium nitrate,litharge,0.787,0,1
+179,Potassium Nitrate,potassium nitrate,potassium nitrate,nitrocalcite,caesium nitrate,caesium carbonate,nitrobarite,0.853,1,1
+180,Potassium Nitrate,potassium nitrate,potassium nitrate,nitrocalcite,caesium nitrate,nitrobarite,caesium carbonate,0.859,1,1
+188,Potassium Nitrate,potassium nitrate,potassium nitrate,nitrocalcite,caesium nitrate,litharge,caesium carbonate,0.884,1,1
+189,Potassium Nitrate,potassium nitrate,caesium nitrate,nitrocalcite,potassium nitrate,corundum,nitrobarite,0.882,0,1
+197,Potassium Nitrate,potassium nitrate,nitrocalcite,potassium nitrate,caesium nitrate,bismuth trinitrate,lead nitrate,0.895,0,1
+198,Potassium Nitrate,potassium nitrate,potassium nitrate,nitrocalcite,caesium nitrate,caesium carbonate,nitrobarite,0.893,1,1
+264,Sodium Nitrate,sodium nitrate,sodium nitrate,potassium carbonate,strontium nitrate,alunite,bismutite,0.916,1,1
+265,Sodium Nitrate,sodium nitrate,sodium nitrate,strontium nitrate,bismutite,alunite,potassium carbonate,0.920,1,1
+266,Sodium Nitrate,sodium nitrate,sodium nitrate,strontium nitrate,alunite,potassium carbonate,sodium borohydride,0.919,1,1
+267,Sodium Nitrate,sodium nitrate,sodium nitrate,strontium nitrate,potassium carbonate,alunite,bismutite,0.919,1,1
+268,Sodium Nitrate,sodium nitrate,sodium nitrate,strontium nitrate,sodium borohydride,potassium carbonate,bismutite,0.908,1,1
+269,Sodium Nitrate,sodium nitrate,sodium nitrate,strontium nitrate,bismutite,potassium carbonate,alunite,0.915,1,1
+270,Sodium Nitrate,sodium nitrate,sodium nitrate,alunite,strontium nitrate,bismutite,potassium carbonate,0.918,1,1
+271,Sodium Nitrate,sodium nitrate,sodium nitrate,strontium nitrate,alunite,potassium carbonate,ba h2 o2,0.911,1,1
+272,Sodium Nitrate,sodium nitrate,sodium nitrate,bismutite,potassium carbonate,strontium nitrate,alunite,0.915,1,1
+273,Sodium Nitrate,sodium nitrate,sodium nitrate,strontium nitrate,bismutite,potassium carbonate,alunite,0.909,1,1
+274,Sodium Nitrate,sodium nitrate,sodium nitrate,alunite,strontium nitrate,bismutite,potassium carbonate,0.918,1,1
+291,Potassium Nitrate,potassium nitrate,potassium nitrate,nitrocalcite,caesium nitrate,nitrobarite,caesium carbonate,0.848,1,1
+292,Potassium Nitrate,potassium nitrate,potassium nitrate,nitrocalcite,caesium nitrate,nitrobarite,tert-butyl methyl ether,0.849,1,1
+293,Potassium Nitrate,potassium nitrate,potassium nitrate,nitrocalcite,caesium nitrate,caesium carbonate,corundum,0.863,1,1
+294,Potassium Nitrate,potassium nitrate,potassium nitrate,nitrocalcite,caesium nitrate,corundum,nitrobarite,0.844,1,1
+295,Potassium Nitrate,potassium nitrate,potassium nitrate,nitrocalcite,caesium nitrate,nitrobarite,tert-butyl methyl ether,0.856,1,1
+297,Sodium Nitrate,sodium nitrate,sodium nitrate,alunite,strontium nitrate,potassium carbonate,bismutite,0.927,1,1
+298,Sodium Nitrate,sodium nitrate,sodium nitrate,strontium nitrate,potassium carbonate,alunite,nitrocalcite,0.938,1,1
+299,Potassium Carbonate,potassium carbonate,sodium nitrate,potassium carbonate,strontium nitrate,caesium nitrate,bismutite,0.933,0,1
+300,Sodium Nitrate,sodium nitrate,sodium nitrate,strontium nitrate,potassium carbonate,bismutite,alunite,0.924,1,1
+301,Sodium Nitrate,sodium nitrate,sodium nitrate,strontium nitrate,bismutite,corundum,alunite,0.923,1,1
+331,Isopropyl Alcohol,2-propanol,nylon 6,bismutite,methylcellulose,cholesteryl stearate,caesium nitrate,0.871,0,0
+359,Potassium Nitrate,potassium nitrate,caesium nitrate,potassium nitrate,nitrocalcite,chitosan,nitrobarite,0.880,0,1
+362,Potassium Nitrate,potassium nitrate,nitrocalcite,caesium nitrate,potassium nitrate,nitrobarite,bismuth trinitrate,0.884,0,1
+363,Potassium Nitrate,potassium nitrate,potassium nitrate,nitrocalcite,caesium nitrate,nitrobarite,caesium carbonate,0.879,1,1
+364,Potassium Nitrate,potassium nitrate,potassium nitrate,nitrocalcite,caesium nitrate,lead nitrate,nitrobarite,0.898,1,1
+367,Potassium Nitrate,potassium nitrate,potassium nitrate,nitrocalcite,caesium nitrate,nitrobarite,lead nitrate,0.891,1,1
+369,Potassium Nitrate,potassium nitrate,potassium nitrate,strontium nitrate,caesium nitrate,nitrocalcite,caesium carbonate,0.898,1,1
+370,Potassium Nitrate,potassium nitrate,caesium nitrate,potassium nitrate,nitrocalcite,potassium carbonate,strontium nitrate,0.885,0,1
+371,Potassium Nitrate,potassium nitrate,caesium nitrate,potassium nitrate,nitrocalcite,caesium carbonate,strontium nitrate,0.894,0,1
+372,Potassium Nitrate,potassium nitrate,potassium nitrate,caesium nitrate,nitrocalcite,caesium carbonate,lead nitrate,0.898,1,1
+374,Potassium Nitrate,potassium nitrate,potassium nitrate,nitrocalcite,caesium nitrate,nitrobarite,caesium carbonate,0.886,1,1
+375,Potassium Nitrate,potassium nitrate,potassium nitrate,nitrocalcite,potassium carbonate,caesium nitrate,casein sodium salt from bovine milk,0.898,1,1
+387,Potassium Nitrate,potassium nitrate,potassium nitrate,caesium nitrate,nitrocalcite,litharge,potassium carbonate,0.886,1,1
+394,Potassium Nitrate,potassium nitrate,potassium nitrate,caesium nitrate,litharge,nitrocalcite,strontium nitrate,0.906,1,1
+397,Potassium Nitrate,potassium nitrate,potassium nitrate,nitrocalcite,caesium nitrate,litharge,potassium carbonate,0.897,1,1
+404,Potassium Nitrate,potassium nitrate,potassium nitrate,nitrocalcite,caesium nitrate,nitrobarite,strontium nitrate,0.894,1,1
+405,Potassium Nitrate,potassium nitrate,potassium nitrate,caesium nitrate,litharge,nitrocalcite,strontium nitrate,0.894,1,1
+406,Potassium Nitrate,potassium nitrate,caesium nitrate,potassium nitrate,caesium carbonate,gelatin,nitrobarite,0.895,0,1
+409,Potassium Nitrate,potassium nitrate,potassium nitrate,caesium nitrate,zein,strontium nitrate,nitrocalcite,0.886,1,1
+410,Potassium Nitrate,potassium nitrate,caesium nitrate,nitrocalcite,potassium nitrate,lead nitrate,carrageenan,0.890,0,1
+621,Sodium Nitrate,sodium nitrate,sodium nitrate,caesium nitrate,nitrocalcite,potassium carbonate,strontium nitrate,0.924,1,1
+622,Sodium Nitrate,sodium nitrate,sodium nitrate,caesium nitrate,nitrocalcite,strontium nitrate,potassium carbonate,0.925,1,1
+623,Sodium Nitrate,sodium nitrate,sodium nitrate,nitrocalcite,caesium nitrate,potassium carbonate,strontium nitrate,0.937,1,1
+627,Sodium Nitrate,sodium nitrate,sodium nitrate,nitrocalcite,caesium nitrate,potassium carbonate,strontium nitrate,0.906,1,1
+628,Sodium Nitrate,sodium nitrate,sodium nitrate,nitrocalcite,caesium nitrate,strontium nitrate,potassium carbonate,0.908,1,1
+699,Acetone,acetone,acetone,moissanite 6o sic,toluene,citric acid,uracil,0.936,1,1
+700,Acetone,acetone,acetone,moissanite 6o sic,citric acid,uracil,toluene,0.939,1,1
+704,Acetone,acetone,acetone,moissanite 6o sic,phosphoenolpyruvate,citric acid,toluene,0.932,1,1
+705,Acetone,acetone,acetone,moissanite 6o sic,uracil,citric acid,cytosine,0.930,1,1
+707,Acetone,acetone,acetone,moissanite 6o sic,toluene,uracil,phosphoenolpyruvate,0.926,1,1
+709,Acetone,acetone,acetone,moissanite 6o sic,citric acid,uracil,cytosine,0.962,1,1
+710,Acetone,acetone,acetone,moissanite 6o sic,citric acid,uracil,cytosine,0.958,1,1
+711,Acetone,acetone,acetone,moissanite 6o sic,citric acid,uracil,toluene,0.965,1,1
+712,Acetone,acetone,acetone,moissanite 6o sic,citric acid,uracil,toluene,0.953,1,1
+713,Acetone,acetone,acetone,moissanite 6o sic,citric acid,toluene,uracil,0.964,1,1
+714,Acetone,acetone,acetone,moissanite 6o sic,citric acid,uracil,cytosine,0.968,1,1
+715,Acetone,acetone,acetone,moissanite 6o sic,citric acid,toluene,uracil,0.967,1,1
+716,Acetone,acetone,acetone,moissanite 6o sic,citric acid,uracil,toluene,0.967,1,1
+717,Acetone,acetone,acetone,moissanite 6o sic,citric acid,uracil,toluene,0.967,1,1
+726,Ethyl Alcohol,ethanol,trypsinogen,α-linolenic acid,sodium nitrate(iii),arachidonic acid,tragacanth,0.835,0,0
+727,Ethyl Alcohol,ethanol,tragacanth,trypsinogen,α-linolenic acid,arachidonic acid,sodium nitrate(iii),0.839,0,0

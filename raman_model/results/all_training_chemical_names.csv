@@ -1,0 +1,361 @@
+﻿no,chemical_name,source,training_spectra
+1,"1,3-dimethyl-2-imidazolidinone",Solvents,109
+2,12-methyltetradecanoic acid,Biomolecules,1
+3,13-methylmyristicacid,Biomolecules,1
+4,14-methylhexadecanoic acid,Biomolecules,1
+5,14-methylpentadecanoic acid,Biomolecules,1
+6,15-methylpalmiticacid,Biomolecules,1
+7,"2,2-dimethoxy propane",Solvents,107
+8,2-deoxy-d-ribose,Biomolecules,1
+9,2-propanol,Solvents,109
+10,a-dna,Biomolecules,1
+11,acetic acid,Solvents,113
+12,acetildenafil,Drug adulterants,1
+13,acetoacetate,Biomolecules,1
+14,acetone,Solvents,120
+15,acetonitrile,Solvents,104
+16,acetyl coenzyme a,Biomolecules,1
+17,adenine,Biomolecules,1
+18,akaganeite,Inorganic crystals (ROD),1
+19,albite,Inorganic crystals (ROD),1
+20,albumin,Biomolecules,3
+21,alginic acid,Excipients,2
+22,alpha propylene glycol,Excipients,2
+23,aluminium(iii) oxide,Inorganic crystals (ROD),1
+24,aluminum carbide,Inorganic crystals (ROD),1
+25,alunite,Inorganic crystals (ROD),3
+26,ammonium paratungstate,Inorganic crystals (ROD),2
+27,amylopectin,Biomolecules,2
+28,amylose,Biomolecules,2
+29,analcime,Inorganic crystals (ROD),1
+30,anhydrous sodium thiosulphate,Inorganic crystals (ROD),1
+31,arachidic acid,Biomolecules,1
+32,arachidonic acid,Biomolecules,1
+33,argutite,Inorganic crystals (ROD),2
+34,ascorbic acid,Biomolecules,1
+35,b-dna,Biomolecules,1
+36,ba h2 o2,Inorganic crystals (ROD),2
+37,bac4o4,Inorganic crystals (ROD),4
+38,bao2,Inorganic crystals (ROD),4
+39,barite,Inorganic crystals (ROD),3
+40,barium titanate,Inorganic crystals (ROD),3
+41,benzaldehyde,Solvents,121
+42,benzyl bromide,Solvents,112
+43,beta gallium oxide,Inorganic crystals (ROD),1
+44,beta propylene glycol,Excipients,2
+45,bismuth trinitrate,Inorganic crystals (ROD),2
+46,bismutite,Inorganic crystals (ROD),3
+47,boric acid,Inorganic crystals (ROD),4
+48,boron trioxide,Inorganic crystals (ROD),3
+49,butyl acetate,Solvents,104
+50,cadmium iodide,Inorganic crystals (ROD),3
+51,caesium carbonate,Inorganic crystals (ROD),1
+52,caesium nitrate,Inorganic crystals (ROD),4
+53,calcium carbonate (calcite),Excipients; Inorganic crystals (ROD),7
+54,calcium peroxide,Inorganic crystals (ROD),3
+55,calcium sulfate dihydrate,Excipients,2
+56,carbonic anhydrase,Biomolecules,3
+57,carboxymethyl cellulose sodium,Excipients,4
+58,carrageenan,Excipients,2
+59,casein sodium salt from bovine milk,Excipients,2
+60,cassiterite,Inorganic crystals (ROD),2
+61,celestine,Inorganic crystals (ROD),3
+62,cellulose,Biomolecules,1
+63,celullose acetate phthalate,Excipients,2
+64,celullose acetate trimellitate,Excipients,2
+65,ceramide,Biomolecules,2
+66,ceria,Inorganic crystals (ROD),3
+67,cerine,Inorganic crystals (ROD),1
+68,cerium(iv) sulfate tetrahydrate,Inorganic crystals (ROD),1
+69,chalcocyanite,Inorganic crystals (ROD),1
+70,chitin,Biomolecules,1
+71,chitosan,Excipients,2
+72,chlorargyrite,Inorganic crystals (ROD),2
+73,chloroform,Solvents,122
+74,cholesterol,Biomolecules,1
+75,cholesteryl linoleate,Biomolecules,1
+76,cholesteryl oleate,Biomolecules,1
+77,cholesteryl palmitate,Biomolecules,1
+78,cholesteryl stearate,Biomolecules,1
+79,citric acid,Biomolecules; Excipients,3
+80,co,Inorganic crystals (ROD),1
+81,cobalt (ii) dicobalt (iii) oxide,Inorganic crystals (ROD),1
+82,cobalt (ii) oxide,Inorganic crystals (ROD),1
+83,cobalt ferrite,Inorganic crystals (ROD),1
+84,cobaltosic oxide,Inorganic crystals (ROD),1
+85,coenzyme a,Biomolecules,1
+86,collagen,Biomolecules,3
+87,corundum,Inorganic crystals (ROD),1
+88,crocoite,Inorganic crystals (ROD),3
+89,csd-b borosilicate glass,Inorganic crystals (ROD),1
+90,cyclohexane,Solvents,145
+91,cytochrome c,Biomolecules,2
+92,cytosine,Biomolecules,1
+93,d-(+)-dextrose,Biomolecules,1
+94,d-(+)-fucose,Biomolecules,1
+95,d-(+)-galactosamine,Biomolecules,1
+96,d-(+)-galactose,Biomolecules,1
+97,d-(+)-glucose,Biomolecules,1
+98,d-(+)-lactose monohydrate,Biomolecules,1
+99,d-(+)-maltose monohydrate,Biomolecules,1
+100,d-(+)-mannose,Biomolecules,1
+101,d-(+)-raffinose pentahydrate,Biomolecules,1
+102,d-(+)-sucrose,Biomolecules,1
+103,d-(+)-trehalose,Biomolecules,1
+104,d-(+)-xylose,Biomolecules,2
+105,d-(-)-arabinose,Biomolecules,1
+106,d-(-)-fructose,Biomolecules,2
+107,d-(-)-ribose,Biomolecules,1
+108,d-fructose-6-phosphate,Biomolecules,1
+109,d-glutamic acid,Excipients,2
+110,d-sorbitol,Excipients,2
+111,dextran,Excipients,2
+112,dibutyl sebacate,Excipients,2
+113,dichloromethane,Solvents,111
+114,diethyl malonate,Solvents,100
+115,diethylamine,Solvents,107
+116,diethylene glycol,Solvents,105
+117,diethylstilbestrol,Biomolecules,1
+118,dimethyl sulfoxide,Solvents,105
+119,disodium peroxodisulfate,Inorganic crystals (ROD),1
+120,dolomite,Inorganic crystals (ROD),1
+121,elaidic acid,Biomolecules,1
+122,elastase,Biomolecules,3
+123,elastin,Biomolecules,1
+124,enstatite,Inorganic crystals (ROD),1
+125,erbium oxide,Inorganic crystals (ROD),2
+126,erbium(iii) oxide,Inorganic crystals (ROD),1
+127,eskolaite,Inorganic crystals (ROD),2
+128,estradiol,Biomolecules,1
+129,estriol,Biomolecules,1
+130,estrone,Biomolecules,1
+131,ethanol,Solvents,109
+132,ethinylestradiol,Biomolecules,1
+133,ethyl acetate,Solvents,110
+134,ethylene glycol,Solvents,100
+135,eudragit 100-55,Excipients,2
+136,eudragit e po,Excipients,2
+137,eudragit l 100,Excipients,2
+138,eudragit s 100,Excipients,2
+139,europium oxide,Inorganic crystals (ROD),3
+140,ferritin,Biomolecules,3
+141,fluoxetine hydrochloride,Drug adulterants,1
+142,formic acid,Solvents,110
+143,forsterite,Inorganic crystals (ROD),1
+144,fumarate,Biomolecules,1
+145,gadolina,Inorganic crystals (ROD),3
+146,gelatin,Excipients,4
+147,glucosamine,Biomolecules,1
+148,glucose anhydrous,Excipients,2
+149,glucose monohydrate,Excipients,2
+150,glucose oxidase,Biomolecules,2
+151,glutathione,Biomolecules,1
+152,glutathione transferase,Biomolecules,2
+153,glycerol,Biomolecules,1
+154,glycine,Biomolecules,1
+155,glycine alpha form,Excipients,2
+156,glycogen,Biomolecules,1
+157,goethite,Inorganic crystals (ROD),1
+158,graphite,Inorganic crystals (ROD),1
+159,guanine,Biomolecules,1
+160,gypsum,Inorganic crystals (ROD),1
+161,hashemite,Inorganic crystals (ROD),3
+162,hedenbergite,Inorganic crystals (ROD),1
+163,hematite,Inorganic crystals (ROD),3
+164,hemoglobin,Biomolecules,2
+165,holmium oxide,Inorganic crystals (ROD),2
+166,holmium(iii) oxide,Inorganic crystals (ROD),1
+167,homo sildenafil,Drug adulterants,1
+168,horseradish peroxidase,Biomolecules,2
+169,hydroxylapatite,Inorganic crystals (ROD),1
+170,hydroxypropyl methylcellulose,Excipients,2
+171,indium oxide,Inorganic crystals (ROD),2
+172,insulin,Biomolecules,1
+173,iron(ii) sulfate,Inorganic crystals (ROD),4
+174,isobutylamine,Solvents,103
+175,k (mn o4),Inorganic crystals (ROD),1
+176,kapellasite,Inorganic crystals (ROD),1
+177,keratin,Biomolecules,1
+178,kollidon va 64,Excipients,2
+179,l-(+)-arabinose,Biomolecules,1
+180,l-alanine,Biomolecules,1
+181,l-arginine,Biomolecules,1
+182,l-asparagine,Biomolecules,1
+183,l-aspartic acid,Biomolecules,1
+184,l-cysteine,Excipients,2
+185,l-glutamate,Biomolecules,1
+186,l-glutamic acid,Excipients,2
+187,l-glutamine,Excipients,2
+188,l-histidine,Biomolecules,1
+189,l-phenylalanine,Biomolecules,1
+190,l-proline,Biomolecules,1
+191,l-serine,Biomolecules,1
+192,l-tryptophan,Biomolecules; Excipients,5
+193,l-tyrosine,Biomolecules,1
+194,l-valine,Biomolecules,1
+195,l-α-phosphatidylcholine,Biomolecules,1
+196,l-α-phosphatidylethanolamine,Biomolecules,1
+197,lactalbumin,Biomolecules,3
+198,lactose,Biomolecules,1
+199,lactose monohydrate,Excipients,2
+200,lanthanum hexaboride,Inorganic crystals (ROD),1
+201,lauric acid,Biomolecules,1
+202,lawrencite,Inorganic crystals (ROD),2
+203,lead nitrate,Inorganic crystals (ROD),1
+204,lectin,Biomolecules,3
+205,linoleic acid,Biomolecules; Inorganic crystals (ROD),2
+206,litharge,Inorganic crystals (ROD),2
+207,lithiophosphate,Inorganic crystals (ROD),1
+208,lithium carbonate,Inorganic crystals (ROD),4
+209,lithium metaborate,Inorganic crystals (ROD),2
+210,lithium molybdate,Inorganic crystals (ROD),3
+211,lizardite,Inorganic crystals (ROD),1
+212,maghemite,Inorganic crystals (ROD),1
+213,magnesium carbonate,Excipients,6
+214,magnesium stearate,Excipients,2
+215,magnetite,Inorganic crystals (ROD),1
+216,major proteinase,Biomolecules,3
+217,malic acid,Biomolecules,1
+218,manganosite,Inorganic crystals (ROD),2
+219,mannitol,Excipients,2
+220,melanin,Biomolecules,4
+221,melatonin,Drug adulterants,1
+222,mercuric oxide,Inorganic crystals (ROD),1
+223,methanol,Solvents,101
+224,methyl isobutyl ketone,Solvents,205
+225,methylcellulose,Excipients,2
+226,moissanite 6o sic,Inorganic crystals (ROD),1
+227,molybdite,Inorganic crystals (ROD),4
+228,monetite,Inorganic crystals (ROD),4
+229,monosodium phosphate,Inorganic crystals (ROD),1
+230,muscovite,Inorganic crystals (ROD),1
+231,myoglobin,Biomolecules,2
+232,myristic acid,Biomolecules,2
+233,"n,n-dimethylformahide",Solvents,105
+234,n-acetyl-d-glucosamine,Biomolecules,1
+235,n-heptane,Solvents,103
+236,n-hexane,Solvents,102
+237,neodymium oxide,Inorganic crystals (ROD),3
+238,niobite,Inorganic crystals (ROD),3
+239,niobium dioxide,Inorganic crystals (ROD),3
+240,nitrobarite,Inorganic crystals (ROD),3
+241,nitrocalcite,Inorganic crystals (ROD),4
+242,nylon 6,Excipients,2
+243,oleic acid,Biomolecules,2
+244,oleylamine,Inorganic crystals (ROD),1
+245,otavite,Inorganic crystals (ROD),1
+246,oxonickel,Inorganic crystals (ROD),1
+247,palmitic acid,Biomolecules,2
+248,palmitoleic acid,Biomolecules,1
+249,papain,Biomolecules,3
+250,pepsin,Biomolecules,3
+251,pepsinogen,Biomolecules,3
+252,phenethylamine,Drug adulterants,1
+253,phosphoenolpyruvate,Biomolecules,1
+254,piperin,Drug adulterants,1
+255,plattnerite,Inorganic crystals (ROD),3
+256,poly ethylene-co-vinyl acetate,Excipients,2
+257,polycaprolactone,Excipients,4
+258,polyethylene glycol,Excipients,8
+259,polyhexamethylene guanidine,Inorganic crystals (ROD),1
+260,polyvinyl alcohol,Excipients,8
+261,polyvinylpyrrolidone,Excipients,12
+262,portlandite,Inorganic crystals (ROD),2
+263,potassium carbonate,Inorganic crystals (ROD),1
+264,potassium nitrate,Inorganic crystals (ROD),3
+265,potassium permanganate,Inorganic crystals (ROD),1
+266,propyl acetate,Solvents,106
+267,pyrite,Inorganic crystals (ROD),1
+268,pyrosmalite-(fe),Inorganic crystals (ROD),1
+269,pyruvate,Biomolecules,1
+270,quartz,Inorganic crystals (ROD),1
+271,riboﬂavin,Biomolecules,1
+272,rutile,Inorganic crystals (ROD),2
+273,samarium (iii) oxide,Inorganic crystals (ROD),2
+274,scandia,Inorganic crystals (ROD),2
+275,shcherbianite,Inorganic crystals (ROD),3
+276,sildenafil citrate,Drug adulterants,1
+277,sodium acetate,Excipients,2
+278,sodium benzoate,Excipients,2
+279,sodium bicarbonate,Excipients; Inorganic crystals (ROD),7
+280,sodium borohydride,Inorganic crystals (ROD),4
+281,sodium dodecyl sulfate,Excipients,4
+282,sodium iodide,Inorganic crystals (ROD),1
+283,sodium nitrate,Inorganic crystals (ROD),4
+284,sodium nitrate(iii),Inorganic crystals (ROD),4
+285,soluplus,Excipients,2
+286,son68 borosilicate glass,Inorganic crystals (ROD),1
+287,sphaerobismoite,Inorganic crystals (ROD),3
+288,sphingomyelin,Biomolecules,1
+289,starch,Excipients,2
+290,stearic acid,Biomolecules,2
+291,steklite,Inorganic crystals (ROD),1
+292,strontium nitrate,Inorganic crystals (ROD),4
+293,succinic acid,Biomolecules,1
+294,sucrose,Excipients,2
+295,superoxide dismutases,Biomolecules,3
+296,synephrine,Drug adulterants,1
+297,t-rna,Biomolecules,1
+298,talc,Excipients,2
+299,tantalite,Inorganic crystals (ROD),3
+300,telluric acid dihydrate,Inorganic crystals (ROD),1
+301,tert-butanol,Solvents,113
+302,tert-butyl methyl ether,Solvents,117
+303,tetrahydrofuran,Solvents,100
+304,thallium(i) bromide,Inorganic crystals (ROD),2
+305,thallium(i) chloride,Inorganic crystals (ROD),2
+306,thaumatin,Biomolecules,3
+307,thenardite,Inorganic crystals (ROD),3
+308,thiosildenafil,Drug adulterants,1
+309,thymine,Biomolecules,1
+310,titanium dioxide (anatase),Excipients; Inorganic crystals (ROD),5
+311,tobermorite,Inorganic crystals (ROD),1
+312,toluene,Solvents,127
+313,tragacanth,Excipients,2
+314,trehalose dihydrate,Excipients,2
+315,tri-11-eicosenoin,Biomolecules,1
+316,triacetin,Excipients,2
+317,triarachidin,Biomolecules,1
+318,tribehenin,Biomolecules,1
+319,tricalcium phosphate,Excipients,2
+320,tricaprin,Biomolecules,1
+321,tricaproin,Biomolecules,1
+322,tricaprylin,Biomolecules,1
+323,trielaidin,Biomolecules,1
+324,trierucin,Biomolecules,1
+325,trilaurin,Biomolecules,1
+326,trilinolein,Biomolecules,2
+327,trilinolenin,Biomolecules,2
+328,trimyristin,Biomolecules,1
+329,triolein,Biomolecules,2
+330,triosephosphate isomerase,Biomolecules,3
+331,tripalmitin,Biomolecules,1
+332,tripalmitolein,Biomolecules,1
+333,tripetroselinin,Biomolecules,1
+334,trisodium phosphate,Inorganic crystals (ROD),1
+335,tristearin,Biomolecules,1
+336,trypsin,Biomolecules,3
+337,trypsin inhibitor,Biomolecules,3
+338,trypsinogen,Biomolecules,3
+339,tschermigite,Inorganic crystals (ROD),1
+340,tubulin,Biomolecules,1
+341,tungsten dioxide,Inorganic crystals (ROD),3
+342,ubiquitin,Biomolecules,3
+343,uracil,Biomolecules,1
+344,vaccenic acid,Biomolecules,1
+345,valentinite,Inorganic crystals (ROD),2
+346,vanadium (iv) oxide,Inorganic crystals (ROD),1
+347,vardenafil hydrochloride,Drug adulterants,1
+348,vinpocetine,Drug adulterants,1
+349,xylanase,Biomolecules,3
+350,xylitol,Excipients,2
+351,ytterbia,Inorganic crystals (ROD),3
+352,yttriaite,Inorganic crystals (ROD),2
+353,zein,Excipients,2
+354,zinc bromide,Inorganic crystals (ROD),1
+355,zincite,Inorganic crystals (ROD),1
+356,zirconium oxide,Inorganic crystals (ROD),3
+357,α-chymotrypsinogen a (type ii),Biomolecules,3
+358,α-linolenic acid,Biomolecules,1
+359,β-carotene,Biomolecules,1
+360,β-d-glucose,Biomolecules,1

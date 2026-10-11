@@ -1,0 +1,754 @@
+row,true_label,model_name,top1,top2,top3,top4,top5,best_match_similarity
+0,Ammonium Nitrate,,magnesium carbonate,mannitol,yttriaite,melanin,europium oxide,0.768
+1,Ammonium Nitrate,,starch,thallium(i) bromide,analcime,chitosan,cadmium iodide,0.816
+2,Ammonium Nitrate,,starch,thallium(i) bromide,analcime,sphaerobismoite,amylopectin,0.826
+3,PNBA,,starch,thallium(i) bromide,cadmium iodide,analcime,thenardite,0.822
+4,not in lib,,quartz,sphaerobismoite,amylopectin,starch,barite,0.819
+5,not in lib,,scandia,potassium nitrate,europium oxide,melanin,graphite,0.771
+6,UREA,,potassium nitrate,europium oxide,scandia,yttriaite,dolomite,0.792
+7,not in lib,,yttriaite,melanin,scandia,hemoglobin,potassium nitrate,0.757
+8,not in lib,,yttriaite,thenardite,chlorargyrite,gelatin,tragacanth,0.870
+9,not in lib,,yttriaite,europium oxide,potassium nitrate,zein,scandia,0.819
+10,not in lib,,yttriaite,melanin,scandia,europium oxide,potassium nitrate,0.782
+11,not in lib,,yttriaite,melanin,scandia,potassium nitrate,europium oxide,0.781
+12,Potassium Nitrate,potassium nitrate,yttriaite,melanin,scandia,potassium nitrate,pepsinogen,0.761
+13,Potassium Nitrate,potassium nitrate,melanin,yttriaite,scandia,europium oxide,potassium nitrate,0.759
+14,Napthalene,,melanin,scandia,yttriaite,hashemite,europium oxide,0.755
+15,Napthalene,,scandia,melanin,yttriaite,europium oxide,pepsinogen,0.761
+16,Napthalene,,starch,analcime,amylopectin,sphaerobismoite,isobutylamine,0.781
+17,Napthalene,,starch,analcime,amylopectin,sphaerobismoite,isobutylamine,0.780
+18,Napthalene,,starch,analcime,amylopectin,sphaerobismoite,isobutylamine,0.785
+19,Napthalene,,starch,amylopectin,albite,hydroxypropyl methylcellulose,otavite,0.772
+20,Napthalene,,starch,amylopectin,albite,eudragit 100-55,hydroxypropyl methylcellulose,0.775
+21,Napthalene,,amylopectin,starch,albite,hydroxypropyl methylcellulose,eudragit 100-55,0.772
+22,Napthalene,,amylopectin,starch,albite,hydroxypropyl methylcellulose,eudragit 100-55,0.770
+23,Napthalene,,starch,amylopectin,hydroxypropyl methylcellulose,albite,thenardite,0.810
+24,Napthalene,,starch,amylopectin,albite,thenardite,hydroxypropyl methylcellulose,0.807
+25,not in lib,,starch,amylopectin,tragacanth,thenardite,hydroxypropyl methylcellulose,0.809
+26,Napthalene,,starch,amylopectin,tragacanth,thenardite,otavite,0.815
+27,Napthalene,,amylopectin,starch,thenardite,tragacanth,otavite,0.813
+28,Napthalene,,starch,amylopectin,tragacanth,hydroxypropyl methylcellulose,otavite,0.814
+29,Napthalene,,starch,amylopectin,tragacanth,thenardite,eudragit 100-55,0.817
+30,Napthalene,,starch,amylopectin,thenardite,eudragit 100-55,otavite,0.810
+31,not in lib,,starch,amylopectin,tragacanth,thenardite,otavite,0.815
+32,Napthalene,,starch,amylopectin,tragacanth,thenardite,albite,0.813
+33,Napthalene,,starch,amylopectin,thenardite,tragacanth,otavite,0.807
+34,Napthalene,,starch,amylopectin,thenardite,tragacanth,hydroxypropyl methylcellulose,0.815
+35,Napthalene,,starch,amylopectin,tragacanth,thenardite,otavite,0.814
+36,Napthalene,,starch,amylopectin,tragacanth,hydroxypropyl methylcellulose,albite,0.814
+37,Napthalene,,starch,amylopectin,tragacanth,albite,hydroxypropyl methylcellulose,0.810
+38,Napthalene,,starch,amylopectin,tragacanth,otavite,thenardite,0.815
+39,not in lib,,starch,amylopectin,albite,hydroxypropyl methylcellulose,tragacanth,0.814
+40,Napthalene,,starch,amylopectin,thenardite,tragacanth,albite,0.808
+41,not in lib,,starch,amylopectin,tragacanth,albite,otavite,0.813
+42,Napthalene,,starch,amylopectin,tragacanth,thenardite,otavite,0.818
+43,Napthalene,,starch,amylopectin,thenardite,tragacanth,hydroxypropyl methylcellulose,0.815
+44,Napthalene,,starch,amylopectin,thenardite,tragacanth,hydroxypropyl methylcellulose,0.819
+45,Napthalene,,starch,amylopectin,thenardite,tragacanth,albite,0.814
+46,Napthalene,,starch,amylopectin,thenardite,tragacanth,albite,0.818
+47,Napthalene,,starch,amylopectin,thenardite,albite,tragacanth,0.810
+48,Napthalene,,amylopectin,starch,thenardite,albite,tragacanth,0.815
+49,Napthalene,,starch,amylopectin,thenardite,tragacanth,hydroxypropyl methylcellulose,0.814
+50,Napthalene,,starch,amylopectin,albite,thenardite,tragacanth,0.813
+51,Napthalene,,starch,amylopectin,thenardite,tragacanth,albite,0.814
+52,Napthalene,,starch,amylopectin,thenardite,tragacanth,hydroxypropyl methylcellulose,0.816
+53,Napthalene,,starch,amylopectin,hydroxypropyl methylcellulose,thenardite,albite,0.814
+54,Napthalene,,starch,amylopectin,thenardite,tragacanth,hydroxypropyl methylcellulose,0.812
+55,Napthalene,,starch,amylopectin,thenardite,tragacanth,albite,0.815
+56,Napthalene,,starch,amylopectin,tragacanth,thenardite,hydroxypropyl methylcellulose,0.811
+57,Napthalene,,starch,amylopectin,tragacanth,thenardite,albite,0.821
+58,Napthalene,,starch,amylopectin,thenardite,albite,tragacanth,0.811
+59,Napthalene,,amylopectin,starch,thenardite,hydroxypropyl methylcellulose,tragacanth,0.818
+60,Napthalene,,starch,amylopectin,thenardite,albite,hydroxypropyl methylcellulose,0.812
+61,not in lib,,starch,amylopectin,thenardite,hydroxypropyl methylcellulose,eudragit 100-55,0.813
+62,PNBA,,starch,amylopectin,thenardite,hydroxypropyl methylcellulose,tragacanth,0.817
+63,not in lib,,starch,amylopectin,thenardite,tragacanth,gelatin,0.825
+64,not in lib,,starch,tragacanth,thenardite,amylopectin,hydroxypropyl methylcellulose,0.831
+65,not in lib,,starch,tragacanth,amylopectin,thenardite,gelatin,0.824
+66,PNBA,,yttriaite,melanin,starch,zein,mannitol,0.728
+67,PNBA,,yttriaite,melanin,starch,zein,scandia,0.731
+68,not in lib,,yttriaite,melanin,starch,europium oxide,scandia,0.728
+69,PNBA,,yttriaite,melanin,scandia,starch,zein,0.732
+70,PNBA,,yttriaite,melanin,starch,scandia,europium oxide,0.731
+71,PNBA,,yttriaite,melanin,scandia,starch,zein,0.733
+72,not in lib,,yttriaite,melanin,starch,pepsinogen,europium oxide,0.731
+73,not in lib,,yttriaite,melanin,starch,scandia,zein,0.731
+74,PNBA,,yttriaite,melanin,starch,scandia,europium oxide,0.729
+75,PNBA,,yttriaite,melanin,starch,scandia,europium oxide,0.728
+76,not in lib,,yttriaite,melanin,starch,zein,scandia,0.726
+77,Hexamine,,yttriaite,starch,melanin,europium oxide,scandia,0.727
+78,Hexamine,,yttriaite,melanin,starch,pepsinogen,zein,0.728
+79,Hexamine,,yttriaite,melanin,starch,scandia,europium oxide,0.727
+80,Hexamine,,yttriaite,melanin,starch,scandia,europium oxide,0.728
+81,Hexamine,,yttriaite,melanin,pepsinogen,scandia,starch,0.725
+82,Hexamine,,amylopectin,thallium(i) bromide,holmium(iii) oxide,isobutylamine,starch,0.770
+83,Hexamine,,amylopectin,thallium(i) bromide,holmium(iii) oxide,isobutylamine,acetone,0.785
+84,Hexamine,,thallium(i) bromide,amylopectin,holmium(iii) oxide,isobutylamine,starch,0.771
+85,Hexamine,,thallium(i) bromide,amylopectin,starch,isobutylamine,holmium(iii) oxide,0.767
+86,not in lib,,amylopectin,thallium(i) bromide,holmium(iii) oxide,isobutylamine,sphaerobismoite,0.773
+87,Hexamine,,thallium(i) bromide,holmium(iii) oxide,isobutylamine,starch,amylopectin,0.772
+88,Hexamine,,amylopectin,thallium(i) bromide,holmium(iii) oxide,isobutylamine,analcime,0.758
+89,Hexamine,,thallium(i) bromide,amylopectin,starch,isobutylamine,holmium(iii) oxide,0.761
+90,Hexamine,,thallium(i) bromide,holmium(iii) oxide,amylopectin,sphaerobismoite,isobutylamine,0.763
+91,Hexamine,,thallium(i) bromide,amylopectin,holmium(iii) oxide,sphaerobismoite,isobutylamine,0.767
+92,Napthalene,,amylopectin,thallium(i) bromide,holmium(iii) oxide,isobutylamine,starch,0.768
+93,Napthalene,,amylopectin,thallium(i) bromide,holmium(iii) oxide,sphaerobismoite,isobutylamine,0.767
+94,Napthalene,,amylopectin,isobutylamine,thallium(i) bromide,holmium(iii) oxide,starch,0.773
+95,Napthalene,,thallium(i) bromide,amylopectin,holmium(iii) oxide,isobutylamine,analcime,0.765
+96,Napthalene,,thallium(i) bromide,amylopectin,holmium(iii) oxide,isobutylamine,sphaerobismoite,0.767
+97,Napthalene,,"1,3-dimethyl-2-imidazolidinone",albite,amylopectin,eudragit 100-55,hydroxypropyl methylcellulose,0.723
+98,Napthalene,,"1,3-dimethyl-2-imidazolidinone",eudragit 100-55,albite,amylopectin,hydroxypropyl methylcellulose,0.729
+99,Napthalene,,"1,3-dimethyl-2-imidazolidinone",eudragit 100-55,amylopectin,albite,hydroxypropyl methylcellulose,0.728
+100,Napthalene,,"1,3-dimethyl-2-imidazolidinone",albite,amylopectin,eudragit 100-55,hydroxypropyl methylcellulose,0.732
+101,Napthalene,,"1,3-dimethyl-2-imidazolidinone",amylopectin,albite,eudragit 100-55,hydroxypropyl methylcellulose,0.733
+102,Napthalene,,"1,3-dimethyl-2-imidazolidinone",albite,amylopectin,eudragit 100-55,hydroxypropyl methylcellulose,0.732
+103,Napthalene,,"1,3-dimethyl-2-imidazolidinone",albite,amylopectin,eudragit 100-55,hydroxypropyl methylcellulose,0.722
+104,Napthalene,,"1,3-dimethyl-2-imidazolidinone",albite,amylopectin,eudragit 100-55,hydroxypropyl methylcellulose,0.725
+105,not in lib,,"1,3-dimethyl-2-imidazolidinone",albite,eudragit 100-55,amylopectin,hydroxypropyl methylcellulose,0.731
+106,Napthalene,,"1,3-dimethyl-2-imidazolidinone",albite,amylopectin,eudragit 100-55,hydroxypropyl methylcellulose,0.727
+107,Napthalene,,"1,3-dimethyl-2-imidazolidinone",albite,amylopectin,eudragit 100-55,hydroxypropyl methylcellulose,0.732
+108,not in lib,,"1,3-dimethyl-2-imidazolidinone",albite,amylopectin,eudragit 100-55,hydroxypropyl methylcellulose,0.730
+109,not in lib,,"1,3-dimethyl-2-imidazolidinone",albite,amylopectin,eudragit 100-55,hydroxypropyl methylcellulose,0.729
+110,UREA,,"1,3-dimethyl-2-imidazolidinone",albite,amylopectin,eudragit 100-55,hydroxypropyl methylcellulose,0.732
+111,UREA,,"1,3-dimethyl-2-imidazolidinone",albite,amylopectin,eudragit 100-55,hydroxypropyl methylcellulose,0.728
+112,not in lib,,"1,3-dimethyl-2-imidazolidinone",albite,amylopectin,eudragit 100-55,hydroxypropyl methylcellulose,0.728
+113,UREA,,iron(ii) sulfate,hedenbergite,gypsum,celestine,thallium(i) bromide,0.841
+114,UREA,,hedenbergite,iron(ii) sulfate,starch,celestine,gypsum,0.840
+115,UREA,,gypsum,hedenbergite,iron(ii) sulfate,celestine,thallium(i) bromide,0.860
+116,UREA,,analcime,starch,thallium(i) bromide,hedenbergite,barite,0.794
+117,UREA,,starch,gypsum,iron(ii) sulfate,hedenbergite,analcime,0.831
+118,UREA,,analcime,starch,thallium(i) bromide,sphaerobismoite,amylopectin,0.776
+119,UREA,,starch,analcime,amylopectin,thallium(i) bromide,iron(ii) sulfate,0.778
+120,not in lib,,starch,analcime,amylopectin,thallium(i) bromide,sphaerobismoite,0.784
+121,UREA,,starch,analcime,amylopectin,thallium(i) bromide,iron(ii) sulfate,0.781
+122,not in lib,,starch,analcime,amylopectin,thallium(i) bromide,sphaerobismoite,0.777
+123,UREA,,analcime,starch,amylopectin,thallium(i) bromide,sphaerobismoite,0.780
+124,UREA,,analcime,starch,amylopectin,thallium(i) bromide,sphaerobismoite,0.781
+125,UREA,,analcime,starch,amylopectin,thallium(i) bromide,sphaerobismoite,0.780
+126,not in lib,,starch,analcime,thallium(i) bromide,amylopectin,sphaerobismoite,0.787
+127,UREA,,analcime,starch,amylopectin,sphaerobismoite,iron(ii) sulfate,0.776
+128,not in lib,,starch,analcime,amylopectin,thallium(i) bromide,sphaerobismoite,0.772
+129,UREA,,starch,analcime,amylopectin,sphaerobismoite,thallium(i) bromide,0.780
+130,UREA,,starch,analcime,amylopectin,thallium(i) bromide,sphaerobismoite,0.776
+131,PNBA,,starch,analcime,amylopectin,sphaerobismoite,thallium(i) bromide,0.779
+132,PNBA,,starch,analcime,amylopectin,thallium(i) bromide,sphaerobismoite,0.786
+133,PNBA,,starch,analcime,amylopectin,thallium(i) bromide,sphaerobismoite,0.788
+134,PNBA,,starch,analcime,sphaerobismoite,amylopectin,thallium(i) bromide,0.785
+135,PNBA,,starch,analcime,amylopectin,sphaerobismoite,thallium(i) bromide,0.781
+136,PNBA,,yttriaite,melanin,starch,scandia,mannitol,0.714
+137,PNBA,,yttriaite,melanin,starch,scandia,europium oxide,0.723
+138,PNBA,,yttriaite,melanin,starch,scandia,europium oxide,0.725
+139,PNBA,,yttriaite,melanin,starch,scandia,europium oxide,0.719
+140,PNBA,,yttriaite,melanin,scandia,starch,europium oxide,0.719
+141,Napthalene,,yttriaite,melanin,starch,scandia,europium oxide,0.722
+142,Napthalene,,yttriaite,scandia,melanin,starch,europium oxide,0.718
+143,Napthalene,,yttriaite,melanin,starch,scandia,europium oxide,0.717
+144,Napthalene,,yttriaite,melanin,starch,scandia,europium oxide,0.724
+145,Napthalene,,yttriaite,melanin,scandia,starch,europium oxide,0.719
+146,Napthalene,,"1,3-dimethyl-2-imidazolidinone",albite,amylopectin,eudragit 100-55,sildenafil citrate,0.724
+147,Napthalene,,"1,3-dimethyl-2-imidazolidinone",amylopectin,eudragit 100-55,albite,hydroxypropyl methylcellulose,0.720
+148,Napthalene,,"1,3-dimethyl-2-imidazolidinone",albite,amylopectin,eudragit 100-55,hydroxypropyl methylcellulose,0.723
+149,Napthalene,,"1,3-dimethyl-2-imidazolidinone",amylopectin,albite,eudragit 100-55,hydroxypropyl methylcellulose,0.720
+150,Napthalene,,"1,3-dimethyl-2-imidazolidinone",eudragit 100-55,albite,amylopectin,sildenafil citrate,0.725
+151,Hexamine,,"1,3-dimethyl-2-imidazolidinone",albite,eudragit 100-55,amylopectin,hydroxypropyl methylcellulose,0.722
+152,Hexamine,,"1,3-dimethyl-2-imidazolidinone",eudragit 100-55,albite,amylopectin,hydroxypropyl methylcellulose,0.716
+153,Hexamine,,"1,3-dimethyl-2-imidazolidinone",amylopectin,eudragit 100-55,albite,hydroxypropyl methylcellulose,0.720
+154,Hexamine,,"1,3-dimethyl-2-imidazolidinone",amylopectin,albite,eudragit 100-55,hydroxypropyl methylcellulose,0.722
+155,Hexamine,,"1,3-dimethyl-2-imidazolidinone",eudragit 100-55,amylopectin,albite,hydroxypropyl methylcellulose,0.719
+156,Hexamine,,thallium(i) bromide,amylopectin,holmium(iii) oxide,sphaerobismoite,starch,0.768
+157,Hexamine,,thallium(i) bromide,amylopectin,holmium(iii) oxide,sphaerobismoite,starch,0.768
+158,Hexamine,,amylopectin,thallium(i) bromide,holmium(iii) oxide,sphaerobismoite,isobutylamine,0.768
+159,Hexamine,,thallium(i) bromide,amylopectin,starch,isobutylamine,holmium(iii) oxide,0.783
+160,Hexamine,,amylopectin,thallium(i) bromide,holmium(iii) oxide,sphaerobismoite,isobutylamine,0.767
+161,not in lib,,analcime,thallium(i) bromide,acetildenafil,amylopectin,isobutylamine,0.767
+162,not in lib,,analcime,thallium(i) bromide,amylopectin,acetildenafil,holmium(iii) oxide,0.769
+163,Potassium Nitrate,potassium nitrate,analcime,acetildenafil,thallium(i) bromide,amylopectin,isobutylamine,0.769
+164,not in lib,,analcime,thallium(i) bromide,acetildenafil,holmium(iii) oxide,amylopectin,0.760
+165,not in lib,,analcime,thallium(i) bromide,acetildenafil,amylopectin,holmium(iii) oxide,0.768
+166,not in lib,,yttriaite,melanin,magnesium carbonate,pepsinogen,vinpocetine,0.740
+167,not in lib,,melanin,yttriaite,magnesium carbonate,scandia,europium oxide,0.740
+168,not in lib,,toluene,acetone,nitrobarite,potassium nitrate,thallium(i) bromide,0.822
+169,UREA,,"1,3-dimethyl-2-imidazolidinone",eudragit 100-55,sildenafil citrate,chitosan,hydroxypropyl methylcellulose,0.739
+170,not in lib,,eudragit 100-55,zein,talc,nitrobarite,cadmium iodide,0.905
+171,not in lib,,iron(ii) sulfate,hedenbergite,celestine,gypsum,calcium sulfate dihydrate,0.890
+172,not in lib,,iron(ii) sulfate,hedenbergite,gypsum,celestine,calcium sulfate dihydrate,0.901
+173,not in lib,,iron(ii) sulfate,hedenbergite,celestine,calcium sulfate dihydrate,carbonic anhydrase,0.895
+174,not in lib,,iron(ii) sulfate,hedenbergite,celestine,gypsum,calcium sulfate dihydrate,0.888
+175,not in lib,,amylopectin,cadmium iodide,alginic acid,starch,nitrobarite,0.870
+176,not in lib,,amylopectin,nitrobarite,analcime,starch,sphaerobismoite,0.877
+177,not in lib,,amylopectin,starch,analcime,nitrobarite,sphaerobismoite,0.871
+178,not in lib,,amylopectin,starch,analcime,nitrobarite,sphaerobismoite,0.872
+179,Potassium Nitrate,potassium nitrate,amylopectin,starch,sphaerobismoite,analcime,nitrobarite,0.856
+180,Potassium Nitrate,potassium nitrate,amylopectin,starch,sphaerobismoite,analcime,nitrobarite,0.858
+181,Ammonium Nitrate,,potassium nitrate,amylopectin,starch,nitrocalcite,caesium nitrate,0.806
+182,RDX,,potassium nitrate,nitrocalcite,caesium nitrate,nitrobarite,amylopectin,0.839
+183,not in lib,,potassium nitrate,nitrocalcite,caesium nitrate,nitrobarite,amylopectin,0.838
+184,PNBA,,potassium nitrate,nitrocalcite,caesium nitrate,nitrobarite,amylopectin,0.834
+185,PNBA,,potassium nitrate,nitrocalcite,nitrobarite,caesium nitrate,amylopectin,0.841
+186,PNBA,,nitrocalcite,nitrobarite,caesium nitrate,caesium carbonate,lead nitrate,0.859
+187,not in lib,,alginic acid,boric acid,chlorargyrite,thallium(i) bromide,europium oxide,0.857
+188,Potassium Nitrate,potassium nitrate,ytterbia,tantalite,rutile,albite,niobium dioxide,0.764
+189,Potassium Nitrate,potassium nitrate,yttriaite,potassium nitrate,magnesium carbonate,nitrocalcite,zein,0.793
+190,HMX,,potassium nitrate,yttriaite,nitrocalcite,caesium nitrate,nitrobarite,0.784
+191,not in lib,,yttriaite,potassium nitrate,nitrocalcite,caesium nitrate,nitrobarite,0.778
+192,H2O2,,amylopectin,starch,sphaerobismoite,analcime,nitrobarite,0.853
+193,HMX,,amylopectin,starch,sphaerobismoite,analcime,nitrobarite,0.852
+194,HMX,,starch,amylopectin,sphaerobismoite,analcime,nitrobarite,0.862
+195,HMX,,thallium(i) bromide,melatonin,alpha propylene glycol,cadmium iodide,methylcellulose,0.840
+196,PNBA,,thallium(i) bromide,starch,cadmium iodide,tricaproin,nitrobarite,0.866
+197,Potassium Nitrate,potassium nitrate,thallium(i) bromide,melatonin,cadmium iodide,tricaproin,magnesium stearate,0.875
+198,Potassium Nitrate,potassium nitrate,thallium(i) bromide,alpha propylene glycol,melatonin,tricaproin,synephrine,0.835
+199,not in lib,,thallium(i) bromide,alpha propylene glycol,tricaproin,starch,melatonin,0.834
+200,not in lib,,thallium(i) bromide,starch,alpha propylene glycol,tricaproin,melatonin,0.833
+201,Sodium Azide,,caesium nitrate,potassium nitrate,starch,nitrocalcite,amylopectin,0.795
+202,not in lib,,nitrocalcite,nitrobarite,caesium nitrate,potassium nitrate,amylopectin,0.810
+203,not in lib,,nitrocalcite,amylopectin,nitrobarite,potassium nitrate,caesium nitrate,0.815
+204,not in lib,,carboxymethyl cellulose sodium,amylopectin,plattnerite,alginic acid,oxonickel,0.836
+205,PNBA,,carboxymethyl cellulose sodium,plattnerite,boric acid,starch,alginic acid,0.857
+206,PNBA,,thallium(i) bromide,hydroxypropyl methylcellulose,cadmium iodide,methylcellulose,potassium nitrate,0.890
+207,PNBA,,eudragit 100-55,alginic acid,cadmium iodide,zein,nitrobarite,0.897
+208,PNBA,,eudragit 100-55,cadmium iodide,alginic acid,thallium(i) bromide,talc,0.898
+209,UREA,,eudragit 100-55,thallium(i) bromide,talc,chitosan,hydroxypropyl methylcellulose,0.893
+210,UREA,,eudragit 100-55,cadmium iodide,talc,methylcellulose,hydroxypropyl methylcellulose,0.891
+211,UREA,,hydroxypropyl methylcellulose,methylcellulose,thallium(i) bromide,cadmium iodide,bismutite,0.877
+212,UREA,,thallium(i) bromide,hydroxypropyl methylcellulose,carboxymethyl cellulose sodium,bismutite,chitosan,0.865
+213,UREA,,eudragit 100-55,cadmium iodide,tragacanth,zein,nitrobarite,0.901
+214,UREA,,cadmium iodide,alginic acid,eudragit 100-55,thallium(i) bromide,sodium nitrate,0.897
+215,UREA,,thallium(i) bromide,cadmium iodide,talc,eudragit 100-55,corundum,0.897
+216,Hexamine,,eudragit 100-55,cadmium iodide,talc,thallium(i) bromide,hydroxypropyl methylcellulose,0.887
+217,Hexamine,,thallium(i) bromide,hydroxypropyl methylcellulose,talc,methylcellulose,chitosan,0.883
+218,Hexamine,,hydroxypropyl methylcellulose,methylcellulose,talc,magnesium stearate,cadmium iodide,0.880
+219,Hexamine,,methylcellulose,hydroxypropyl methylcellulose,chitosan,carboxymethyl cellulose sodium,thallium(i) bromide,0.871
+220,Hexamine,,eudragit 100-55,cadmium iodide,alginic acid,zein,nitrobarite,0.896
+221,Napthalene,,thallium(i) bromide,eudragit 100-55,cadmium iodide,zein,alginic acid,0.899
+222,Napthalene,,methylcellulose,eudragit 100-55,cadmium iodide,thallium(i) bromide,hydroxypropyl methylcellulose,0.889
+223,Napthalene,,cadmium iodide,thallium(i) bromide,eudragit 100-55,talc,nitrobarite,0.885
+224,Napthalene,,eudragit 100-55,nitrobarite,thallium(i) bromide,tragacanth,zein,0.915
+225,PNBA,,nitrobarite,strontium nitrate,cadmium iodide,thallium(i) bromide,magnesium stearate,0.899
+226,PNBA,,cadmium iodide,nitrobarite,eudragit 100-55,thallium(i) bromide,potassium nitrate,0.897
+227,PNBA,,cadmium iodide,thallium(i) bromide,nitrobarite,starch,nitrocalcite,0.910
+228,PNBA,,caesium nitrate,thallium(i) bromide,starch,nitrobarite,potassium nitrate,0.898
+229,PNBA,,amylopectin,starch,sphaerobismoite,analcime,caesium nitrate,0.829
+230,UREA,,plattnerite,amylopectin,sphaerobismoite,son68 borosilicate glass,zirconium oxide,0.798
+231,UREA,,unusable spectrum,,,,,
+232,UREA,,unusable spectrum,,,,,
+233,UREA,,unusable spectrum,,,,,
+234,UREA,,unusable spectrum,,,,,
+235,Napthalene,,sphaerobismoite,niobium dioxide,pyrite,tungsten dioxide,plattnerite,0.775
+236,Napthalene,,starch,cadmium iodide,amylopectin,alginic acid,nitrobarite,0.855
+237,Napthalene,,eudragit 100-55,alginic acid,cadmium iodide,zein,nitrobarite,0.902
+238,Napthalene,,yttriaite,zein,magnesium carbonate,potassium nitrate,pepsinogen,0.828
+239,Napthalene,,yttriaite,magnesium carbonate,zein,potassium nitrate,pepsinogen,0.830
+240,PNBA,,yttriaite,zein,magnesium carbonate,potassium nitrate,vinpocetine,0.830
+241,PNBA,,yttriaite,zein,potassium nitrate,magnesium carbonate,vinpocetine,0.834
+242,PNBA,,hedenbergite,calcium sulfate dihydrate,iron(ii) sulfate,celestine,gadolina,0.905
+243,PNBA,,iron(ii) sulfate,calcium sulfate dihydrate,hedenbergite,celestine,gadolina,0.911
+244,PNBA,,hedenbergite,calcium sulfate dihydrate,iron(ii) sulfate,celestine,gadolina,0.886
+245,PNBA,,hedenbergite,iron(ii) sulfate,calcium sulfate dihydrate,celestine,gadolina,0.881
+246,PETN,,hedenbergite,iron(ii) sulfate,calcium sulfate dihydrate,celestine,gadolina,0.889
+247,PETN,,hedenbergite,iron(ii) sulfate,calcium sulfate dihydrate,celestine,gadolina,0.882
+248,PETN,,hedenbergite,iron(ii) sulfate,calcium sulfate dihydrate,celestine,gadolina,0.880
+249,PETN,,toluene,acetone,ceria,potassium nitrate,nitrobarite,0.808
+250,PETN,,toluene,acetone,ceria,potassium nitrate,bismutite,0.808
+251,PETN,,toluene,acetone,ceria,citric acid,potassium nitrate,0.802
+252,PETN,,toluene,acetone,ceria,potassium nitrate,citric acid,0.801
+253,PETN,,toluene,acetone,citric acid,ceria,nitrobarite,0.801
+254,UREA,,"1,3-dimethyl-2-imidazolidinone",eudragit 100-55,sildenafil citrate,chitosan,hydroxypropyl methylcellulose,0.730
+255,UREA,,"1,3-dimethyl-2-imidazolidinone",eudragit 100-55,sildenafil citrate,hydroxypropyl methylcellulose,chitosan,0.730
+256,UREA,,"1,3-dimethyl-2-imidazolidinone",eudragit 100-55,sildenafil citrate,hydroxypropyl methylcellulose,chitosan,0.732
+257,UREA,,"1,3-dimethyl-2-imidazolidinone",eudragit 100-55,sildenafil citrate,chitosan,hydroxypropyl methylcellulose,0.729
+258,Hexamine,,yttriaite,melanin,magnesium carbonate,pepsinogen,scandia,0.740
+259,Hexamine,,yttriaite,melanin,magnesium carbonate,pepsinogen,scandia,0.740
+260,Potassium Chlorate,,yttriaite,melanin,magnesium carbonate,vinpocetine,scandia,0.736
+261,Potassium Chlorate,,yttriaite,melanin,magnesium carbonate,pepsinogen,vinpocetine,0.739
+262,Potassium Chlorate,,yttriaite,melanin,magnesium carbonate,pepsinogen,vinpocetine,0.739
+263,Potassium Chlorate,,iron(ii) sulfate,hedenbergite,calcium sulfate dihydrate,celestine,gadolina,0.882
+264,Sodium Nitrate,sodium nitrate,iron(ii) sulfate,hedenbergite,celestine,calcium sulfate dihydrate,gadolina,0.882
+265,Sodium Nitrate,sodium nitrate,hedenbergite,iron(ii) sulfate,calcium sulfate dihydrate,celestine,gadolina,0.884
+266,Sodium Nitrate,sodium nitrate,hedenbergite,iron(ii) sulfate,calcium sulfate dihydrate,celestine,gadolina,0.881
+267,Sodium Nitrate,sodium nitrate,iron(ii) sulfate,hedenbergite,calcium sulfate dihydrate,celestine,gadolina,0.890
+268,Sodium Nitrate,sodium nitrate,"1,3-dimethyl-2-imidazolidinone",eudragit 100-55,chitosan,sildenafil citrate,hydroxypropyl methylcellulose,0.740
+269,Sodium Nitrate,sodium nitrate,"1,3-dimethyl-2-imidazolidinone",eudragit 100-55,chitosan,sildenafil citrate,hydroxypropyl methylcellulose,0.744
+270,Sodium Nitrate,sodium nitrate,"1,3-dimethyl-2-imidazolidinone",eudragit 100-55,chitosan,sildenafil citrate,hydroxypropyl methylcellulose,0.742
+271,Sodium Nitrate,sodium nitrate,"1,3-dimethyl-2-imidazolidinone",eudragit 100-55,chitosan,sildenafil citrate,hydroxypropyl methylcellulose,0.740
+272,Sodium Nitrate,sodium nitrate,"1,3-dimethyl-2-imidazolidinone",eudragit 100-55,chitosan,sildenafil citrate,hydroxypropyl methylcellulose,0.738
+273,Sodium Nitrate,sodium nitrate,melanin,yttriaite,magnesium carbonate,scandia,pepsinogen,0.746
+274,Sodium Nitrate,sodium nitrate,melanin,yttriaite,magnesium carbonate,scandia,pepsinogen,0.747
+275,not in lib,,melanin,yttriaite,magnesium carbonate,scandia,pepsinogen,0.749
+276,not in lib,,melanin,yttriaite,magnesium carbonate,scandia,pepsinogen,0.743
+277,Ammonium Nitrate,,melanin,yttriaite,magnesium carbonate,scandia,pepsinogen,0.741
+278,Ammonium Nitrate,,melanin,yttriaite,magnesium carbonate,scandia,pepsinogen,0.744
+279,Ammonium Nitrate,,talc,strontium nitrate,eudragit 100-55,tribehenin,collagen,0.863
+280,Ammonium Nitrate,,talc,strontium nitrate,eudragit 100-55,magnesium stearate,tribehenin,0.864
+281,Ammonium Nitrate,,talc,strontium nitrate,tribehenin,eudragit 100-55,trierucin,0.857
+282,Ammonium Nitrate,,talc,strontium nitrate,eudragit 100-55,tribehenin,casein sodium salt from bovine milk,0.855
+283,not in lib,,talc,strontium nitrate,eudragit 100-55,tribehenin,boric acid,0.851
+284,TATB,,talc,strontium nitrate,eudragit 100-55,tribehenin,collagen,0.850
+285,RDX,,talc,strontium nitrate,eudragit 100-55,tribehenin,magnesium stearate,0.852
+286,RDX,,talc,strontium nitrate,eudragit 100-55,collagen,tribehenin,0.840
+287,RDX,,iron(ii) sulfate,celestine,hedenbergite,calcium sulfate dihydrate,gadolina,0.884
+288,RDX,,iron(ii) sulfate,hedenbergite,calcium sulfate dihydrate,celestine,gadolina,0.888
+289,RDX,,iron(ii) sulfate,hedenbergite,calcium sulfate dihydrate,celestine,gadolina,0.889
+290,RDX,,iron(ii) sulfate,calcium sulfate dihydrate,celestine,hedenbergite,gadolina,0.888
+291,Potassium Nitrate,potassium nitrate,toluene,acetone,ceria,citric acid,potassium nitrate,0.807
+292,Potassium Nitrate,potassium nitrate,toluene,acetone,potassium nitrate,ceria,citric acid,0.804
+293,Potassium Nitrate,potassium nitrate,lithiophosphate,amylopectin,samarium (iii) oxide,trisodium phosphate,succinic acid,0.876
+294,Potassium Nitrate,potassium nitrate,lithiophosphate,amylopectin,samarium (iii) oxide,trisodium phosphate,succinic acid,0.876
+295,Potassium Nitrate,potassium nitrate,lithiophosphate,samarium (iii) oxide,amylopectin,trisodium phosphate,succinic acid,0.875
+296,not in lib,,lithiophosphate,amylopectin,samarium (iii) oxide,trisodium phosphate,succinic acid,0.879
+297,Sodium Nitrate,sodium nitrate,sodium nitrate,strontium nitrate,potassium carbonate,bismutite,ba h2 o2,0.907
+298,Sodium Nitrate,sodium nitrate,sodium nitrate,strontium nitrate,bismutite,potassium carbonate,nitrocalcite,0.912
+299,Potassium Carbonate,potassium carbonate,sodium nitrate,strontium nitrate,potassium carbonate,alunite,bismutite,0.910
+300,Sodium Nitrate,sodium nitrate,sodium nitrate,potassium carbonate,strontium nitrate,bismutite,corundum,0.905
+301,Sodium Nitrate,sodium nitrate,sodium nitrate,strontium nitrate,bismutite,potassium carbonate,corundum,0.914
+302,UREA,,sodium nitrate,strontium nitrate,potassium carbonate,bismutite,caesium nitrate,0.908
+303,UREA,,sodium nitrate,strontium nitrate,alunite,bismutite,potassium carbonate,0.913
+304,UREA,,sodium nitrate,strontium nitrate,potassium carbonate,corundum,bismutite,0.906
+305,UREA,,sodium nitrate,bismutite,potassium carbonate,strontium nitrate,corundum,0.912
+306,UREA,,sodium nitrate,strontium nitrate,bismutite,potassium carbonate,corundum,0.916
+307,UREA,,sodium nitrate,strontium nitrate,bismutite,alunite,potassium carbonate,0.914
+308,UREA,,iron(ii) sulfate,calcium sulfate dihydrate,talc,hedenbergite,celestine,0.896
+309,PNBA,,iron(ii) sulfate,hedenbergite,calcium sulfate dihydrate,celestine,gadolina,0.898
+310,not in lib,,nitrocalcite,bismuth trinitrate,nitrobarite,caesium carbonate,lead nitrate,0.889
+311,not in lib,,nitrocalcite,nitrobarite,bismuth trinitrate,lead nitrate,caesium carbonate,0.886
+312,not in lib,,nitrocalcite,nitrobarite,bismuth trinitrate,caesium carbonate,lead nitrate,0.887
+313,Sodium chlorate,,nitrocalcite,bismuth trinitrate,nitrobarite,caesium carbonate,lead nitrate,0.888
+314,Potassium Chlorate,,nitrocalcite,nitrobarite,bismuth trinitrate,caesium carbonate,lead nitrate,0.887
+315,Potassium Chlorate,,nitrocalcite,bismuth trinitrate,nitrobarite,caesium carbonate,caesium nitrate,0.890
+316,Sodium chlorate,,eudragit 100-55,nitrobarite,alginic acid,chitosan,zein,0.894
+317,Sodium chlorate,,boric acid,lead nitrate,alginic acid,glycine alpha form,chitosan,0.857
+318,Sodium chlorate,,boric acid,alginic acid,chlorargyrite,carrageenan,talc,0.869
+319,Sodium chlorate,,boric acid,alginic acid,chlorargyrite,acetic acid,carrageenan,0.862
+320,Sodium chlorate,,boric acid,alginic acid,magnesium stearate,acetic acid,chlorargyrite,0.865
+321,Sodium chlorate,,boric acid,alginic acid,acetic acid,chlorargyrite,talc,0.870
+322,Sodium chlorate,,boric acid,alginic acid,acetic acid,carrageenan,chlorargyrite,0.867
+323,UREA,,boric acid,alginic acid,chlorargyrite,europium oxide,carrageenan,0.869
+324,UREA,,potassium nitrate,nitrocalcite,caesium nitrate,nitrobarite,caesium carbonate,0.881
+325,UREA,,potassium nitrate,nitrocalcite,caesium nitrate,nitrobarite,corundum,0.878
+326,Ammonium Nitrate,,potassium nitrate,nitrocalcite,caesium nitrate,nitrobarite,caesium carbonate,0.877
+327,UREA,,potassium nitrate,nitrocalcite,caesium nitrate,nitrobarite,corundum,0.885
+328,UREA,,potassium nitrate,nitrocalcite,caesium nitrate,nitrobarite,caesium carbonate,0.878
+329,UREA,,eudragit 100-55,alginic acid,cadmium iodide,chitosan,tragacanth,0.900
+330,Ethylene Diamine,,sodium nitrate,potassium carbonate,caesium nitrate,corundum,alunite,0.889
+331,Isopropyl Alcohol,2-propanol,sodium nitrate,potassium carbonate,caesium nitrate,corundum,strontium nitrate,0.899
+332,UREA,,sodium nitrate,potassium carbonate,caesium nitrate,strontium nitrate,corundum,0.898
+333,UREA,,sodium nitrate,potassium carbonate,strontium nitrate,caesium nitrate,nitrocalcite,0.889
+334,UREA,,sodium nitrate,caesium nitrate,strontium nitrate,nitrocalcite,corundum,0.893
+335,UREA,,iron(ii) sulfate,celestine,starch,cadmium iodide,hedenbergite,0.885
+336,UREA,,iron(ii) sulfate,nitrobarite,celestine,hedenbergite,cadmium iodide,0.885
+337,UREA,,iron(ii) sulfate,celestine,nitrobarite,starch,hedenbergite,0.888
+338,UREA,,iron(ii) sulfate,celestine,alginic acid,hedenbergite,nitrobarite,0.884
+339,UREA,,celestine,iron(ii) sulfate,nitrobarite,starch,hedenbergite,0.888
+340,UREA,,iron(ii) sulfate,celestine,hedenbergite,nitrobarite,thallium(i) bromide,0.890
+341,UREA,,iron(ii) sulfate,nitrobarite,celestine,hedenbergite,thallium(i) bromide,0.891
+342,UREA,,eudragit 100-55,nitrobarite,alginic acid,cadmium iodide,starch,0.875
+343,UREA,,cadmium iodide,thallium(i) bromide,nitrobarite,alginic acid,eudragit 100-55,0.886
+344,UREA,,nitrobarite,alginic acid,cadmium iodide,talc,eudragit 100-55,0.885
+345,UREA,,eudragit 100-55,iron(ii) sulfate,alginic acid,nitrobarite,hedenbergite,0.887
+346,UREA,,cadmium iodide,alginic acid,eudragit 100-55,thallium(i) bromide,nitrobarite,0.882
+347,PNBA,,cadmium iodide,alginic acid,thallium(i) bromide,eudragit 100-55,nitrobarite,0.873
+348,PNBA,,alginic acid,cadmium iodide,nitrobarite,iron(ii) sulfate,thallium(i) bromide,0.890
+349,Nirobenzene,,cadmium iodide,nitrobarite,eudragit 100-55,iron(ii) sulfate,alginic acid,0.884
+350,PNBA,,iron(ii) sulfate,celestine,hedenbergite,nitrobarite,starch,0.877
+351,not in lib,,cadmium iodide,thallium(i) bromide,alginic acid,eudragit 100-55,starch,0.877
+352,not in lib,,cadmium iodide,alginic acid,nitrobarite,eudragit 100-55,thallium(i) bromide,0.880
+353,not in lib,,alginic acid,cadmium iodide,eudragit 100-55,thallium(i) bromide,nitrobarite,0.886
+354,not in lib,,starch,amylopectin,cadmium iodide,thallium(i) bromide,alginic acid,0.850
+355,UREA,,amylopectin,cadmium iodide,analcime,starch,alginic acid,0.871
+356,UREA,,cadmium iodide,alginic acid,thallium(i) bromide,starch,analcime,0.877
+357,not in lib,,cadmium iodide,iron(ii) sulfate,starch,carboxymethyl cellulose sodium,alginic acid,0.884
+358,PNBA,,cadmium iodide,iron(ii) sulfate,alginic acid,starch,celestine,0.885
+359,Potassium Nitrate,potassium nitrate,iron(ii) sulfate,nitrobarite,hedenbergite,celestine,gypsum,0.882
+360,TNT,,cadmium iodide,thallium(i) bromide,eudragit 100-55,starch,tragacanth,0.867
+361,TNT,,cadmium iodide,analcime,alginic acid,nitrobarite,starch,0.861
+362,Potassium Nitrate,potassium nitrate,cadmium iodide,alginic acid,eudragit 100-55,starch,amylopectin,0.874
+363,Potassium Nitrate,potassium nitrate,starch,eudragit 100-55,alginic acid,thallium(i) bromide,amylopectin,0.869
+364,Potassium Nitrate,potassium nitrate,cadmium iodide,alginic acid,starch,amylopectin,analcime,0.871
+365,Ammonium Nitrate,,cadmium iodide,thallium(i) bromide,nitrobarite,alginic acid,starch,0.871
+366,Ammonium Nitrate,,iron(ii) sulfate,thallium(i) bromide,celestine,cadmium iodide,nitrobarite,0.897
+367,Potassium Nitrate,potassium nitrate,iron(ii) sulfate,hedenbergite,starch,celestine,cadmium iodide,0.887
+368,UREA,,amylopectin,cadmium iodide,analcime,alginic acid,carboxymethyl cellulose sodium,0.868
+369,Potassium Nitrate,potassium nitrate,starch,thallium(i) bromide,amylopectin,eudragit 100-55,alginic acid,0.868
+370,Potassium Nitrate,potassium nitrate,eudragit 100-55,cadmium iodide,alginic acid,chitosan,amylopectin,0.877
+371,Potassium Nitrate,potassium nitrate,alginic acid,cadmium iodide,eudragit 100-55,thallium(i) bromide,tragacanth,0.877
+372,Potassium Nitrate,potassium nitrate,eudragit 100-55,cadmium iodide,thallium(i) bromide,starch,alginic acid,0.872
+373,not in lib,,eudragit 100-55,cadmium iodide,amylopectin,tragacanth,alginic acid,0.886
+374,Potassium Nitrate,potassium nitrate,eudragit 100-55,cadmium iodide,alginic acid,chitosan,zein,0.901
+375,Potassium Nitrate,potassium nitrate,iron(ii) sulfate,nitrobarite,celestine,hedenbergite,starch,0.884
+376,HMX,,iron(ii) sulfate,celestine,starch,hedenbergite,carbonic anhydrase,0.877
+377,HMX,,eudragit 100-55,thallium(i) bromide,nitrobarite,starch,cadmium iodide,0.870
+378,Sodium Azide,,alginic acid,amylopectin,eudragit 100-55,cadmium iodide,nitrobarite,0.878
+379,TNT,,amylopectin,alginic acid,starch,eudragit 100-55,thallium(i) bromide,0.876
+380,TNT,,alginic acid,cadmium iodide,amylopectin,starch,zein,0.862
+381,TNT,,cadmium iodide,iron(ii) sulfate,nitrobarite,alginic acid,starch,0.886
+382,not in lib,,cadmium iodide,nitrobarite,eudragit 100-55,alginic acid,celestine,0.875
+383,not in lib,,iron(ii) sulfate,celestine,nitrobarite,starch,hedenbergite,0.884
+384,TATB,,cadmium iodide,alginic acid,thallium(i) bromide,eudragit 100-55,nitrobarite,0.874
+385,TATB,,cadmium iodide,eudragit 100-55,alginic acid,amylopectin,starch,0.868
+386,not in lib,,cadmium iodide,alginic acid,eudragit 100-55,thallium(i) bromide,analcime,0.870
+387,Potassium Nitrate,potassium nitrate,alginic acid,cadmium iodide,eudragit 100-55,amylopectin,nitrobarite,0.874
+388,not in lib,,cadmium iodide,eudragit 100-55,thallium(i) bromide,alginic acid,nitrobarite,0.881
+389,Ammonium Nitrate,,cadmium iodide,alginic acid,starch,eudragit 100-55,iron(ii) sulfate,0.877
+390,not in lib,,thallium(i) bromide,cadmium iodide,alginic acid,nitrobarite,eudragit 100-55,0.879
+391,not in lib,,alginic acid,cadmium iodide,thallium(i) bromide,sodium nitrate,nitrobarite,0.878
+392,not in lib,,starch,cadmium iodide,iron(ii) sulfate,alginic acid,mercuric oxide,0.883
+393,not in lib,,cadmium iodide,alginic acid,iron(ii) sulfate,nitrobarite,celestine,0.890
+394,Potassium Nitrate,potassium nitrate,nitrobarite,alginic acid,cadmium iodide,eudragit 100-55,thenardite,0.886
+395,not in lib,,nitrobarite,alginic acid,potassium nitrate,carboxymethyl cellulose sodium,nitrocalcite,0.887
+396,Ammonium Nitrate,,eudragit 100-55,cadmium iodide,alginic acid,zein,nitrobarite,0.902
+397,Potassium Nitrate,potassium nitrate,cadmium iodide,eudragit 100-55,alginic acid,tragacanth,eudragit l 100,0.895
+398,Ammonium Nitrate,,eudragit 100-55,cadmium iodide,alginic acid,nitrobarite,eudragit l 100,0.901
+399,not in lib,,eudragit 100-55,cadmium iodide,alginic acid,zein,ba h2 o2,0.900
+400,not in lib,,eudragit 100-55,alginic acid,cadmium iodide,chitosan,eudragit s 100,0.901
+401,Ammonium Nitrate,,eudragit 100-55,cadmium iodide,eudragit l 100,talc,zein,0.901
+402,Ammonium Nitrate,,eudragit 100-55,alginic acid,cadmium iodide,nitrobarite,tragacanth,0.901
+403,Ethylene Diamine,,eudragit 100-55,alginic acid,cadmium iodide,chitosan,nitrobarite,0.909
+404,Potassium Nitrate,potassium nitrate,zein,alginic acid,eudragit 100-55,potassium nitrate,cadmium iodide,0.900
+405,Potassium Nitrate,potassium nitrate,alginic acid,eudragit 100-55,cadmium iodide,zein,talc,0.899
+406,Potassium Nitrate,potassium nitrate,eudragit 100-55,sodium nitrate,alginic acid,cadmium iodide,talc,0.887
+407,not in lib,,eudragit 100-55,alginic acid,zein,tragacanth,zinc bromide,0.902
+408,not in lib,,eudragit 100-55,alginic acid,chitosan,cadmium iodide,zein,0.902
+409,Potassium Nitrate,potassium nitrate,eudragit 100-55,alginic acid,chitosan,cadmium iodide,nitrobarite,0.906
+410,Potassium Nitrate,potassium nitrate,eudragit 100-55,cadmium iodide,alginic acid,nitrobarite,eudragit l 100,0.897
+411,not in lib,,nitrobarite,alginic acid,eudragit 100-55,talc,thenardite,0.895
+412,not in lib,,eudragit 100-55,alginic acid,zein,cadmium iodide,ba h2 o2,0.898
+413,not in lib,,cadmium iodide,eudragit 100-55,alginic acid,carboxymethyl cellulose sodium,carrageenan,0.889
+414,not in lib,,eudragit 100-55,cadmium iodide,alginic acid,methylcellulose,talc,0.899
+415,not in lib,,eudragit 100-55,alginic acid,chitosan,cadmium iodide,tragacanth,0.900
+416,not in lib,,eudragit 100-55,alginic acid,cadmium iodide,eudragit l 100,tragacanth,0.901
+417,not in lib,,eudragit 100-55,alginic acid,cadmium iodide,nitrobarite,chitosan,0.907
+418,not in lib,,alginic acid,eudragit l 100,eudragit 100-55,zein,talc,0.907
+419,not in lib,,eudragit 100-55,alginic acid,talc,chitosan,tragacanth,0.905
+420,UREA,,eudragit 100-55,cadmium iodide,alginic acid,carboxymethyl cellulose sodium,nitrobarite,0.902
+421,not in lib,,eudragit 100-55,cadmium iodide,eudragit l 100,alginic acid,zein,0.900
+422,UREA,,eudragit 100-55,alginic acid,nitrobarite,cadmium iodide,tragacanth,0.900
+423,not in lib,,eudragit 100-55,alginic acid,carboxymethyl cellulose sodium,caesium nitrate,tragacanth,0.895
+424,not in lib,,eudragit 100-55,cadmium iodide,talc,alginic acid,chitosan,0.899
+425,UREA,,eudragit 100-55,alginic acid,cadmium iodide,carboxymethyl cellulose sodium,zein,0.907
+426,UREA,,eudragit 100-55,alginic acid,cadmium iodide,zein,talc,0.899
+427,UREA,,eudragit 100-55,cadmium iodide,alginic acid,eudragit l 100,zein,0.907
+428,not in lib,,eudragit 100-55,cadmium iodide,alginic acid,zein,talc,0.902
+429,UREA,,eudragit 100-55,alginic acid,cadmium iodide,nitrobarite,tragacanth,0.909
+430,UREA,,eudragit 100-55,cadmium iodide,alginic acid,eudragit l 100,talc,0.904
+431,UREA,,eudragit 100-55,alginic acid,cadmium iodide,talc,tragacanth,0.910
+432,not in lib,,eudragit 100-55,cadmium iodide,alginic acid,talc,tragacanth,0.907
+433,UREA,,eudragit 100-55,alginic acid,cadmium iodide,eudragit l 100,nitrobarite,0.898
+434,UREA,,eudragit 100-55,alginic acid,chitosan,cadmium iodide,zinc bromide,0.904
+435,not in lib,,eudragit 100-55,alginic acid,talc,nitrobarite,eudragit l 100,0.895
+436,UREA,,eudragit 100-55,alginic acid,cadmium iodide,nitrobarite,magnesium stearate,0.900
+437,not in lib,,eudragit 100-55,alginic acid,zein,cadmium iodide,tragacanth,0.910
+438,UREA,,alginic acid,eudragit 100-55,zein,cadmium iodide,nitrobarite,0.908
+439,UREA,,eudragit 100-55,alginic acid,talc,zein,nitrobarite,0.908
+440,UREA,,eudragit 100-55,talc,alginic acid,zein,potassium nitrate,0.909
+441,UREA,,eudragit 100-55,alginic acid,eudragit l 100,cadmium iodide,nitrobarite,0.900
+442,UREA,,eudragit 100-55,cadmium iodide,talc,nitrobarite,alginic acid,0.907
+443,UREA,,eudragit 100-55,alginic acid,ba h2 o2,chitosan,zein,0.907
+444,UREA,,eudragit 100-55,cadmium iodide,alginic acid,carboxymethyl cellulose sodium,tragacanth,0.913
+445,not in lib,,eudragit 100-55,alginic acid,cadmium iodide,zein,nitrobarite,0.902
+446,UREA,,eudragit 100-55,alginic acid,cadmium iodide,nitrobarite,carboxymethyl cellulose sodium,0.897
+447,UREA,,eudragit 100-55,alginic acid,cadmium iodide,talc,tragacanth,0.908
+448,UREA,,eudragit 100-55,alginic acid,nitrobarite,cadmium iodide,tragacanth,0.905
+449,UREA,,cadmium iodide,eudragit 100-55,alginic acid,chitosan,zein,0.904
+450,not in lib,,eudragit 100-55,cadmium iodide,talc,alginic acid,potassium nitrate,0.898
+451,UREA,,eudragit 100-55,alginic acid,cadmium iodide,carboxymethyl cellulose sodium,potassium carbonate,0.894
+452,UREA,,eudragit 100-55,alginic acid,talc,cadmium iodide,eudragit l 100,0.909
+453,UREA,,eudragit 100-55,alginic acid,cadmium iodide,nitrobarite,potassium nitrate,0.903
+454,not in lib,,eudragit 100-55,alginic acid,nitrobarite,cadmium iodide,tragacanth,0.909
+455,UREA,,eudragit 100-55,alginic acid,cadmium iodide,talc,eudragit l 100,0.905
+456,UREA,,alginic acid,eudragit 100-55,cadmium iodide,tragacanth,carboxymethyl cellulose sodium,0.906
+457,not in lib,,eudragit 100-55,cadmium iodide,talc,alginic acid,potassium nitrate,0.903
+458,not in lib,,eudragit 100-55,alginic acid,cadmium iodide,eudragit l 100,zein,0.907
+459,not in lib,,eudragit 100-55,cadmium iodide,alginic acid,zinc bromide,talc,0.893
+460,UREA,,eudragit 100-55,alginic acid,nitrobarite,cadmium iodide,eudragit s 100,0.897
+461,UREA,,eudragit 100-55,cadmium iodide,alginic acid,talc,nitrobarite,0.900
+462,UREA,,eudragit 100-55,alginic acid,talc,eudragit l 100,nitrobarite,0.910
+463,not in lib,,eudragit 100-55,alginic acid,cadmium iodide,nitrobarite,chitosan,0.909
+464,not in lib,,cadmium iodide,eudragit 100-55,alginic acid,talc,nitrobarite,0.919
+465,not in lib,,eudragit 100-55,chitosan,alginic acid,zein,cadmium iodide,0.910
+466,not in lib,,eudragit 100-55,cadmium iodide,talc,alginic acid,zein,0.899
+467,not in lib,,eudragit 100-55,cadmium iodide,alginic acid,tragacanth,zein,0.905
+468,not in lib,,eudragit 100-55,cadmium iodide,talc,alginic acid,zein,0.914
+469,UREA,,alginic acid,eudragit 100-55,cadmium iodide,nitrobarite,tragacanth,0.908
+470,not in lib,,cadmium iodide,nitrobarite,eudragit 100-55,talc,alginic acid,0.913
+471,not in lib,,nitrobarite,talc,alginic acid,cadmium iodide,carboxymethyl cellulose sodium,0.898
+472,UREA,,zein,yttriaite,potassium nitrate,cadmium iodide,thallium(i) bromide,0.849
+473,UREA,,yttriaite,potassium nitrate,zein,nitrocalcite,vinpocetine,0.862
+474,UREA,,potassium nitrate,yttriaite,zein,cadmium iodide,chlorargyrite,0.871
+475,UREA,,potassium nitrate,zein,yttriaite,thenardite,corundum,0.879
+476,UREA,,potassium nitrate,yttriaite,zein,magnesium carbonate,vinpocetine,0.815
+477,not in lib,,yttriaite,potassium nitrate,magnesium carbonate,zein,vinpocetine,0.774
+478,not in lib,,nitrobarite,eudragit 100-55,alginic acid,cadmium iodide,tragacanth,0.899
+479,not in lib,,alginic acid,nitrobarite,cadmium iodide,eudragit 100-55,carboxymethyl cellulose sodium,0.901
+480,UREA,,cadmium iodide,eudragit 100-55,strontium nitrate,nitrobarite,potassium nitrate,0.918
+481,UREA,,eudragit 100-55,cadmium iodide,nitrobarite,tragacanth,alginic acid,0.900
+482,not in lib,,eudragit 100-55,alginic acid,cadmium iodide,zein,chitosan,0.895
+483,UREA,,eudragit 100-55,alginic acid,potassium nitrate,cadmium iodide,nitrobarite,0.906
+484,UREA,,eudragit 100-55,alginic acid,talc,cadmium iodide,nitrobarite,0.907
+485,UREA,,eudragit 100-55,cadmium iodide,alginic acid,potassium nitrate,talc,0.915
+486,not in lib,,nitrobarite,cadmium iodide,talc,eudragit 100-55,potassium nitrate,0.906
+487,not in lib,,nitrobarite,cadmium iodide,nitrocalcite,carboxymethyl cellulose sodium,thallium(i) bromide,0.911
+488,not in lib,,amylopectin,lithiophosphate,samarium (iii) oxide,starch,trisodium phosphate,0.841
+489,UREA,,starch,amylopectin,eudragit 100-55,alginic acid,cadmium iodide,0.874
+490,not in lib,,amylopectin,starch,alginic acid,cadmium iodide,eudragit 100-55,0.883
+491,UREA,,starch,amylopectin,cadmium iodide,amylose,analcime,0.869
+492,UREA,,amylopectin,lithiophosphate,samarium (iii) oxide,starch,trisodium phosphate,0.851
+493,UREA,,amylopectin,lithiophosphate,samarium (iii) oxide,starch,trisodium phosphate,0.850
+494,not in lib,,amylopectin,lithiophosphate,samarium (iii) oxide,starch,trisodium phosphate,0.851
+495,UREA,,amylopectin,lithiophosphate,starch,samarium (iii) oxide,trisodium phosphate,0.845
+496,UREA,,amylopectin,lithiophosphate,samarium (iii) oxide,starch,alginic acid,0.851
+497,UREA,,amylopectin,lithiophosphate,samarium (iii) oxide,starch,trisodium phosphate,0.852
+498,UREA,,amylopectin,lithiophosphate,starch,samarium (iii) oxide,trisodium phosphate,0.846
+499,UREA,,iron(ii) sulfate,nitrobarite,celestine,hedenbergite,alginic acid,0.887
+500,UREA,,iron(ii) sulfate,celestine,hedenbergite,nitrobarite,calcium sulfate dihydrate,0.892
+501,UREA,,iron(ii) sulfate,celestine,nitrobarite,hedenbergite,calcium sulfate dihydrate,0.892
+502,UREA,,nitrobarite,nitrocalcite,lead nitrate,caesium carbonate,potassium nitrate,0.864
+503,UREA,,iron(ii) sulfate,nitrobarite,celestine,cadmium iodide,hedenbergite,0.880
+504,not in lib,,alginic acid,eudragit 100-55,nitrobarite,cadmium iodide,sodium nitrate,0.893
+505,UREA,,eudragit 100-55,cadmium iodide,alginic acid,nitrobarite,thallium(i) bromide,0.894
+506,H2O2,,cadmium iodide,nitrobarite,alginic acid,talc,eudragit 100-55,0.877
+507,not in lib,,cadmium iodide,eudragit 100-55,nitrobarite,alginic acid,talc,0.885
+508,not in lib,,iron(ii) sulfate,celestine,nitrobarite,cadmium iodide,hedenbergite,0.877
+509,not in lib,,iron(ii) sulfate,celestine,hedenbergite,nitrobarite,calcium sulfate dihydrate,0.887
+510,not in lib,,eudragit 100-55,alginic acid,cadmium iodide,nitrobarite,talc,0.900
+511,not in lib,,eudragit 100-55,cadmium iodide,alginic acid,nitrobarite,tragacanth,0.900
+512,not in lib,,eudragit 100-55,cadmium iodide,alginic acid,nitrobarite,talc,0.898
+513,not in lib,,cadmium iodide,eudragit 100-55,alginic acid,nitrobarite,talc,0.907
+514,not in lib,,nitrobarite,cadmium iodide,talc,sphaerobismoite,barite,0.886
+515,not in lib,,nitrobarite,cadmium iodide,alginic acid,thenardite,carboxymethyl cellulose sodium,0.895
+516,not in lib,,celestine,iron(ii) sulfate,cadmium iodide,nitrobarite,starch,0.886
+517,not in lib,,thallium(i) bromide,cadmium iodide,carboxymethyl cellulose sodium,analcime,starch,0.884
+518,not in lib,,cadmium iodide,thallium(i) bromide,thenardite,chlorargyrite,magnesium stearate,0.893
+519,not in lib,,thenardite,magnesium stearate,thallium(i) bromide,chlorargyrite,carboxymethyl cellulose sodium,0.893
+520,not in lib,,thallium(i) bromide,thenardite,magnesium stearate,cadmium iodide,chlorargyrite,0.894
+521,not in lib,,niobium dioxide,plattnerite,tantalite,crocoite,zirconium oxide,0.799
+522,not in lib,,niobium dioxide,zirconium oxide,neodymium oxide,niobite,manganosite,0.842
+523,not in lib,,analcime,sphaerobismoite,starch,zirconium oxide,carboxymethyl cellulose sodium,0.816
+524,Ethylene Diamine,,iron(ii) sulfate,celestine,starch,nitrobarite,amylopectin,0.877
+525,UREA,,iron(ii) sulfate,nitrobarite,celestine,hedenbergite,cadmium iodide,0.878
+526,not in lib,,iron(ii) sulfate,starch,celestine,hedenbergite,nitrobarite,0.871
+527,UREA,,iron(ii) sulfate,starch,celestine,nitrobarite,cadmium iodide,0.878
+528,not in lib,,iron(ii) sulfate,celestine,nitrobarite,hedenbergite,analcime,0.880
+529,UREA,,iron(ii) sulfate,celestine,nitrobarite,starch,cadmium iodide,0.877
+530,UREA,,iron(ii) sulfate,celestine,nitrobarite,amylopectin,starch,0.877
+531,UREA,,iron(ii) sulfate,celestine,nitrobarite,amylopectin,starch,0.885
+532,UREA,,iron(ii) sulfate,celestine,starch,nitrobarite,amylopectin,0.875
+533,UREA,,iron(ii) sulfate,celestine,nitrobarite,hedenbergite,starch,0.879
+534,UREA,,iron(ii) sulfate,celestine,starch,nitrobarite,amylopectin,0.877
+535,UREA,,iron(ii) sulfate,celestine,starch,hedenbergite,nitrobarite,0.888
+536,UREA,,iron(ii) sulfate,celestine,nitrobarite,starch,hedenbergite,0.879
+537,UREA,,iron(ii) sulfate,nitrobarite,celestine,starch,hedenbergite,0.884
+538,UREA,,eudragit 100-55,alginic acid,sodium nitrate,zein,nitrobarite,0.886
+539,UREA,,eudragit 100-55,cadmium iodide,alginic acid,nitrobarite,zein,0.900
+540,UREA,,alginic acid,eudragit 100-55,nitrobarite,cadmium iodide,thallium(i) bromide,0.892
+541,UREA,,eudragit 100-55,cadmium iodide,zinc bromide,alginic acid,carboxymethyl cellulose sodium,0.886
+542,UREA,,cadmium iodide,iron(ii) sulfate,nitrobarite,alginic acid,celestine,0.897
+543,UREA,,iron(ii) sulfate,nitrobarite,celestine,cadmium iodide,talc,0.892
+544,UREA,,iron(ii) sulfate,celestine,nitrobarite,cadmium iodide,alginic acid,0.894
+545,UREA,,iron(ii) sulfate,celestine,hedenbergite,nitrobarite,gypsum,0.877
+546,UREA,,eudragit 100-55,zein,cadmium iodide,alginic acid,nitrobarite,0.892
+547,UREA,,eudragit 100-55,alginic acid,cadmium iodide,nitrobarite,zein,0.904
+548,UREA,,eudragit 100-55,cadmium iodide,zein,alginic acid,nitrobarite,0.906
+549,UREA,,eudragit 100-55,alginic acid,talc,nitrobarite,cadmium iodide,0.903
+550,UREA,,iron(ii) sulfate,celestine,hedenbergite,nitrobarite,calcium sulfate dihydrate,0.892
+551,UREA,,yttriaite,potassium nitrate,melanin,magnesium carbonate,nitrocalcite,0.758
+552,UREA,,yttriaite,potassium nitrate,nitrocalcite,melanin,magnesium carbonate,0.761
+553,UREA,,yttriaite,potassium nitrate,melanin,magnesium carbonate,pepsinogen,0.756
+554,UREA,,yttriaite,potassium nitrate,melanin,magnesium carbonate,vinpocetine,0.751
+555,UREA,,yttriaite,potassium nitrate,melanin,magnesium carbonate,pepsinogen,0.748
+556,UREA,,yttriaite,melanin,potassium nitrate,magnesium carbonate,vinpocetine,0.751
+557,UREA,,analcime,starch,amylopectin,thallium(i) bromide,cadmium iodide,0.865
+558,UREA,,analcime,starch,amylopectin,thallium(i) bromide,cadmium iodide,0.877
+559,UREA,,cadmium iodide,starch,analcime,thallium(i) bromide,nitrobarite,0.867
+560,UREA,,starch,analcime,cadmium iodide,thallium(i) bromide,amylopectin,0.861
+561,UREA,,amylopectin,analcime,starch,cadmium iodide,thallium(i) bromide,0.874
+562,UREA,,starch,amylopectin,thallium(i) bromide,analcime,cadmium iodide,0.854
+563,UREA,,starch,thallium(i) bromide,cadmium iodide,analcime,alginic acid,0.862
+564,UREA,,starch,cadmium iodide,amylopectin,analcime,thallium(i) bromide,0.863
+565,UREA,,starch,analcime,amylopectin,thallium(i) bromide,cadmium iodide,0.851
+566,UREA,,analcime,amylopectin,starch,cadmium iodide,europium oxide,0.852
+567,UREA,,amylopectin,thallium(i) bromide,starch,analcime,sphaerobismoite,0.858
+568,not in lib,,yttriaite,potassium nitrate,magnesium carbonate,mannitol,melanin,0.753
+569,UREA,,amylopectin,analcime,starch,sphaerobismoite,thallium(i) bromide,0.876
+570,UREA,,amylopectin,starch,analcime,sphaerobismoite,thallium(i) bromide,0.874
+571,UREA,,thallium(i) bromide,cadmium iodide,carboxymethyl cellulose sodium,hydroxypropyl methylcellulose,talc,0.887
+572,UREA,,cadmium iodide,thallium(i) bromide,hydroxypropyl methylcellulose,starch,chitosan,0.882
+573,UREA,,thallium(i) bromide,cadmium iodide,eudragit 100-55,carboxymethyl cellulose sodium,hydroxypropyl methylcellulose,0.899
+574,UREA,,nitrobarite,amylopectin,starch,caesium nitrate,potassium nitrate,0.861
+575,UREA,,nitrobarite,potassium nitrate,caesium nitrate,nitrocalcite,amylopectin,0.867
+576,UREA,,nitrobarite,amylopectin,caesium nitrate,nitrocalcite,potassium nitrate,0.853
+577,UREA,,nitrobarite,nitrocalcite,lead nitrate,caesium carbonate,caesium nitrate,0.835
+578,UREA,,nitrobarite,nitrocalcite,lead nitrate,caesium carbonate,caesium nitrate,0.837
+579,UREA,,nitrobarite,nitrocalcite,lead nitrate,caesium carbonate,caesium nitrate,0.842
+580,UREA,,amylopectin,nitrobarite,starch,sphaerobismoite,analcime,0.869
+581,UREA,,iron(ii) sulfate,celestine,nitrobarite,gypsum,alginic acid,0.893
+582,UREA,,iron(ii) sulfate,celestine,nitrobarite,cadmium iodide,hedenbergite,0.895
+583,UREA,,amylopectin,nitrobarite,sphaerobismoite,starch,analcime,0.859
+584,UREA,,cadmium iodide,eudragit 100-55,alginic acid,tragacanth,nitrobarite,0.893
+585,not in lib,,eudragit 100-55,cadmium iodide,thallium(i) bromide,alginic acid,starch,0.877
+586,UREA,,eudragit 100-55,cadmium iodide,alginic acid,amylopectin,zein,0.880
+587,UREA,,eudragit 100-55,nitrobarite,cadmium iodide,alginic acid,amylopectin,0.886
+588,UREA,,amylopectin,nitrobarite,sphaerobismoite,starch,analcime,0.859
+589,UREA,,amylopectin,starch,sphaerobismoite,nitrobarite,analcime,0.860
+590,UREA,,amylopectin,starch,sphaerobismoite,analcime,nitrobarite,0.861
+591,UREA,,amylopectin,starch,sphaerobismoite,nitrobarite,analcime,0.853
+592,not in lib,,amylopectin,nitrobarite,sphaerobismoite,starch,potassium nitrate,0.855
+593,not in lib,,amylopectin,nitrobarite,sphaerobismoite,starch,nitrocalcite,0.861
+594,not in lib,,amylopectin,nitrobarite,starch,sphaerobismoite,nitrocalcite,0.854
+595,not in lib,,thallium(i) bromide,nitrocalcite,potassium nitrate,nitrobarite,amylopectin,0.846
+596,not in lib,,thallium(i) bromide,alpha propylene glycol,boric acid,nitrobarite,nitrocalcite,0.843
+597,not in lib,,cadmium iodide,thallium(i) bromide,hydroxypropyl methylcellulose,carboxymethyl cellulose sodium,litharge,0.897
+598,not in lib,,hydroxypropyl methylcellulose,bismutite,cadmium iodide,potassium nitrate,thallium(i) bromide,0.875
+599,not in lib,,thallium(i) bromide,cadmium iodide,litharge,carboxymethyl cellulose sodium,potassium nitrate,0.864
+600,not in lib,,cadmium iodide,yttriaite,thallium(i) bromide,chlorargyrite,corundum,0.868
+601,not in lib,,samarium (iii) oxide,cerine,neodymium oxide,quartz,ceria,0.799
+602,not in lib,,unusable spectrum,,,,,
+603,Hexamine,,boric acid,mannitol,tantalite,nitrobarite,ethanol,0.845
+604,Hexamine,,boric acid,nitrobarite,mannitol,thallium(i) bromide,ceria,0.864
+605,Sodium Azide,,amylopectin,nitrobarite,sphaerobismoite,starch,analcime,0.864
+606,Sodium Azide,,amylopectin,starch,sphaerobismoite,nitrobarite,analcime,0.854
+607,RDX,,amylopectin,starch,sphaerobismoite,nitrobarite,analcime,0.856
+608,RDX,,amylopectin,sphaerobismoite,starch,nitrobarite,barite,0.856
+609,PETN,,amylopectin,sphaerobismoite,starch,nitrobarite,analcime,0.857
+610,PETN,,amylopectin,starch,sphaerobismoite,analcime,neodymium oxide,0.855
+611,Sodium Azide,,amylopectin,starch,sphaerobismoite,analcime,neodymium oxide,0.855
+612,Sodium Azide,,amylopectin,starch,sphaerobismoite,analcime,nitrobarite,0.863
+613,Hexamine,,amylopectin,starch,sphaerobismoite,analcime,neodymium oxide,0.862
+614,Hexamine,,amylopectin,starch,sphaerobismoite,analcime,neodymium oxide,0.857
+615,Potassium Chlorate,,amylopectin,starch,sphaerobismoite,analcime,nitrobarite,0.856
+616,Potassium Chlorate,,amylopectin,starch,sphaerobismoite,analcime,nitrobarite,0.856
+617,TATB,,amylopectin,starch,sphaerobismoite,analcime,nitrobarite,0.867
+618,TATB,,amylopectin,starch,sphaerobismoite,analcime,nitrobarite,0.862
+619,PNBA,,amylopectin,starch,sphaerobismoite,analcime,nitrobarite,0.862
+620,PNBA,,starch,amylopectin,sphaerobismoite,analcime,nitrobarite,0.861
+621,Sodium Nitrate,sodium nitrate,amylopectin,starch,sphaerobismoite,analcime,nitrobarite,0.857
+622,Sodium Nitrate,sodium nitrate,unusable spectrum,,,,,
+623,Sodium Nitrate,sodium nitrate,amylopectin,starch,sphaerobismoite,nitrobarite,analcime,0.864
+624,PNBA,,amylopectin,starch,sphaerobismoite,nitrobarite,analcime,0.852
+625,PNBA,,amylopectin,starch,sphaerobismoite,nitrobarite,thenardite,0.861
+626,Ammonium Nitrate,,nitrobarite,alginic acid,cadmium iodide,eudragit 100-55,tragacanth,0.895
+627,Sodium Nitrate,sodium nitrate,amylopectin,nitrobarite,sphaerobismoite,starch,alginic acid,0.868
+628,Sodium Nitrate,sodium nitrate,amylopectin,nitrobarite,sphaerobismoite,starch,analcime,0.861
+629,PNBA,,amylopectin,sphaerobismoite,nitrobarite,analcime,starch,0.861
+630,PNBA,,amylopectin,sphaerobismoite,nitrobarite,starch,analcime,0.859
+631,TATB,,amylopectin,nitrobarite,sphaerobismoite,starch,analcime,0.851
+632,Ammonium Nitrate,,nitrobarite,amylopectin,sphaerobismoite,starch,analcime,0.849
+633,not in lib,,starch,amylopectin,analcime,europium oxide,caesium nitrate,0.866
+634,not in lib,,starch,amylopectin,analcime,caesium nitrate,cadmium iodide,0.861
+635,Sulphur,,amylopectin,starch,analcime,nitrobarite,caesium nitrate,0.868
+636,not in lib,,starch,analcime,amylopectin,nitrobarite,caesium nitrate,0.868
+637,not in lib,,starch,analcime,amylopectin,caesium nitrate,europium oxide,0.866
+638,not in lib,,starch,gypsum,analcime,europium oxide,iron(ii) sulfate,0.870
+639,not in lib,,gypsum,iron(ii) sulfate,starch,europium oxide,thallium(i) bromide,0.880
+640,PNBA,,starch,gypsum,thallium(i) bromide,iron(ii) sulfate,europium oxide,0.871
+641,not in lib,,gypsum,starch,iron(ii) sulfate,europium oxide,cadmium iodide,0.874
+642,Napthalene,,starch,thallium(i) bromide,gypsum,iron(ii) sulfate,cadmium iodide,0.869
+643,Napthalene,,starch,gypsum,europium oxide,iron(ii) sulfate,analcime,0.874
+644,PNBA,,starch,iron(ii) sulfate,gypsum,cadmium iodide,celestine,0.880
+645,PNBA,,gypsum,starch,iron(ii) sulfate,europium oxide,amylopectin,0.874
+646,PNBA,,starch,thallium(i) bromide,iron(ii) sulfate,gypsum,estriol,0.869
+647,Napthalene,,gypsum,starch,iron(ii) sulfate,celestine,europium oxide,0.876
+648,Napthalene,,gypsum,starch,iron(ii) sulfate,europium oxide,calcium sulfate dihydrate,0.866
+649,PNBA,,gypsum,iron(ii) sulfate,starch,europium oxide,celestine,0.873
+650,DNAN,,starch,gypsum,europium oxide,iron(ii) sulfate,thallium(i) bromide,0.875
+651,not in lib,,gypsum,iron(ii) sulfate,starch,amylopectin,analcime,0.873
+652,not in lib,,gypsum,starch,thallium(i) bromide,iron(ii) sulfate,analcime,0.871
+653,PNBA,,starch,gypsum,iron(ii) sulfate,europium oxide,analcime,0.877
+654,PNBA,,gypsum,europium oxide,starch,iron(ii) sulfate,analcime,0.870
+655,PNBA,,europium oxide,gypsum,iron(ii) sulfate,starch,cadmium iodide,0.870
+656,PNBA,,starch,gypsum,iron(ii) sulfate,thallium(i) bromide,analcime,0.873
+657,PNBA,,gypsum,thallium(i) bromide,starch,europium oxide,iron(ii) sulfate,0.866
+658,PNBA,,starch,iron(ii) sulfate,europium oxide,thallium(i) bromide,nitrobarite,0.868
+659,PNBA,,starch,gypsum,analcime,amylopectin,iron(ii) sulfate,0.864
+660,PNBA,,starch,iron(ii) sulfate,gypsum,thallium(i) bromide,europium oxide,0.874
+661,PNBA,,starch,europium oxide,gypsum,iron(ii) sulfate,cadmium iodide,0.870
+662,PNBA,,starch,gypsum,iron(ii) sulfate,thallium(i) bromide,europium oxide,0.875
+663,PNBA,,thallium(i) bromide,cadmium iodide,gypsum,starch,iron(ii) sulfate,0.876
+664,Napthalene,,europium oxide,starch,thallium(i) bromide,gypsum,cadmium iodide,0.878
+665,Napthalene,,iron(ii) sulfate,gypsum,starch,amylopectin,europium oxide,0.884
+666,Napthalene,,nitrobarite,thallium(i) bromide,gypsum,starch,cadmium iodide,0.880
+667,Napthalene,,thallium(i) bromide,europium oxide,gypsum,nitrobarite,starch,0.883
+668,Napthalene,,thallium(i) bromide,europium oxide,nitrobarite,starch,gypsum,0.879
+669,not in lib,,starch,thallium(i) bromide,europium oxide,amylopectin,nitrobarite,0.886
+670,Sodium Azide,,europium oxide,iron(ii) sulfate,starch,nitrobarite,thallium(i) bromide,0.887
+671,not in lib,,cadmium iodide,europium oxide,analcime,thallium(i) bromide,starch,0.874
+672,not in lib,,thallium(i) bromide,analcime,gypsum,cadmium iodide,nitrobarite,0.878
+673,not in lib,,starch,thallium(i) bromide,iron(ii) sulfate,gypsum,analcime,0.870
+674,Ethylene Diamine,,starch,gypsum,amylopectin,nitrobarite,europium oxide,0.864
+675,RDX,,starch,thallium(i) bromide,gypsum,europium oxide,iron(ii) sulfate,0.868
+676,RDX,,starch,cadmium iodide,nitrobarite,thallium(i) bromide,analcime,0.874
+677,TNB,,cadmium iodide,starch,europium oxide,thallium(i) bromide,nitrobarite,0.867
+678,TNB,,starch,europium oxide,thallium(i) bromide,analcime,amylopectin,0.869
+679,TNB,,gypsum,thallium(i) bromide,iron(ii) sulfate,calcium sulfate dihydrate,starch,0.877
+680,H2O2,,gypsum,iron(ii) sulfate,starch,thallium(i) bromide,cadmium iodide,0.881
+681,H2O2,,thallium(i) bromide,cadmium iodide,europium oxide,iron(ii) sulfate,alginic acid,0.898
+682,not in lib,,gypsum,europium oxide,cadmium iodide,nitrobarite,iron(ii) sulfate,0.883
+683,not in lib,,europium oxide,cadmium iodide,gypsum,iron(ii) sulfate,talc,0.885
+684,not in lib,,gypsum,iron(ii) sulfate,thallium(i) bromide,europium oxide,starch,0.889
+685,TATB,,iron(ii) sulfate,gypsum,europium oxide,thallium(i) bromide,calcium sulfate dihydrate,0.889
+686,H2O2,,gypsum,cadmium iodide,iron(ii) sulfate,europium oxide,starch,0.884
+687,TATB,,europium oxide,gypsum,starch,iron(ii) sulfate,thallium(i) bromide,0.883
+688,TATB,,europium oxide,gypsum,nitrobarite,thallium(i) bromide,iron(ii) sulfate,0.885
+689,H2O2,,europium oxide,gypsum,nitrobarite,cadmium iodide,thallium(i) bromide,0.885
+690,TATB,,gypsum,iron(ii) sulfate,cadmium iodide,nitrobarite,starch,0.888
+691,TNT,,europium oxide,iron(ii) sulfate,gypsum,cadmium iodide,thallium(i) bromide,0.894
+692,Napthalene,,gypsum,europium oxide,iron(ii) sulfate,starch,thallium(i) bromide,0.892
+693,Ethylene Diamine,,gypsum,cadmium iodide,iron(ii) sulfate,europium oxide,starch,0.893
+694,H2O2,,europium oxide,gypsum,starch,iron(ii) sulfate,amylopectin,0.885
+695,not in lib,,cadmium iodide,iron(ii) sulfate,gypsum,starch,thallium(i) bromide,0.893
+696,not in lib,,amylopectin,europium oxide,nitrobarite,analcime,caesium nitrate,0.862
+697,not in lib,,amylopectin,starch,nitrobarite,thallium(i) bromide,caesium nitrate,0.858
+698,not in lib,,amylopectin,starch,thallium(i) bromide,analcime,europium oxide,0.864
+699,Acetone,acetone,gypsum,thallium(i) bromide,starch,iron(ii) sulfate,europium oxide,0.882
+700,Acetone,acetone,nitrobarite,gypsum,thallium(i) bromide,cadmium iodide,europium oxide,0.877
+701,not in lib,,europium oxide,alginic acid,cadmium iodide,gypsum,talc,0.881
+702,not in lib,,starch,gypsum,iron(ii) sulfate,europium oxide,thallium(i) bromide,0.872
+703,not in lib,,gypsum,thallium(i) bromide,iron(ii) sulfate,starch,cadmium iodide,0.873
+704,Acetone,acetone,gypsum,starch,iron(ii) sulfate,thallium(i) bromide,europium oxide,0.870
+705,Acetone,acetone,starch,amylopectin,analcime,caesium nitrate,nitrobarite,0.864
+706,not in lib,,starch,amylopectin,analcime,thallium(i) bromide,cadmium iodide,0.866
+707,Acetone,acetone,starch,amylopectin,cadmium iodide,analcime,europium oxide,0.858
+708,not in lib,,gypsum,starch,thallium(i) bromide,iron(ii) sulfate,europium oxide,0.867
+709,Acetone,acetone,gypsum,starch,celestine,iron(ii) sulfate,europium oxide,0.868
+710,Acetone,acetone,gypsum,thallium(i) bromide,europium oxide,celestine,starch,0.873
+711,Acetone,acetone,gypsum,starch,iron(ii) sulfate,europium oxide,thallium(i) bromide,0.878
+712,Acetone,acetone,starch,gypsum,amylopectin,cadmium iodide,europium oxide,0.870
+713,Acetone,acetone,gypsum,starch,cadmium iodide,europium oxide,amylopectin,0.867
+714,Acetone,acetone,starch,gypsum,cadmium iodide,europium oxide,thallium(i) bromide,0.869
+715,Acetone,acetone,starch,gypsum,celestine,cadmium iodide,iron(ii) sulfate,0.865
+716,Acetone,acetone,gypsum,starch,iron(ii) sulfate,amylopectin,thallium(i) bromide,0.874
+717,Acetone,acetone,gypsum,starch,cadmium iodide,iron(ii) sulfate,europium oxide,0.872
+718,RDX,,gypsum,starch,cadmium iodide,europium oxide,thallium(i) bromide,0.870
+719,RDX,,gypsum,starch,europium oxide,cadmium iodide,iron(ii) sulfate,0.869
+720,RDX,,gypsum,europium oxide,starch,cadmium iodide,celestine,0.869
+721,TNB,,zein,eudragit 100-55,cadmium iodide,thallium(i) bromide,alginic acid,0.893
+722,not in lib,,cadmium iodide,zein,eudragit 100-55,alginic acid,thallium(i) bromide,0.891
+723,not in lib,,eudragit 100-55,zein,alginic acid,cadmium iodide,thallium(i) bromide,0.890
+724,not in lib,,thallium(i) bromide,gypsum,starch,europium oxide,nitrobarite,0.884
+725,Nitromethane,,gypsum,nitrobarite,starch,iron(ii) sulfate,cadmium iodide,0.867
+726,Ethyl Alcohol,ethanol,zein,eudragit 100-55,cadmium iodide,alginic acid,thallium(i) bromide,0.893
+727,Ethyl Alcohol,ethanol,zein,alginic acid,eudragit 100-55,thallium(i) bromide,cadmium iodide,0.893
+728,not in lib,,zein,eudragit 100-55,alginic acid,cadmium iodide,thallium(i) bromide,0.897
+729,not in lib,,thallium(i) bromide,iron(ii) sulfate,gypsum,europium oxide,cadmium iodide,0.883
+730,not in lib,,cadmium iodide,zein,alginic acid,eudragit 100-55,thallium(i) bromide,0.892
+731,not in lib,,thallium(i) bromide,amylopectin,starch,analcime,alginic acid,0.851
+732,PNBA,,thallium(i) bromide,zein,analcime,eudragit 100-55,alginic acid,0.885
+733,PNBA,,amylopectin,zein,cadmium iodide,thallium(i) bromide,alginic acid,0.879
+734,TNT,,thallium(i) bromide,cadmium iodide,alginic acid,gypsum,zein,0.876
+735,TNT,,gypsum,thallium(i) bromide,starch,iron(ii) sulfate,europium oxide,0.876
+736,not in lib,,starch,thallium(i) bromide,gypsum,analcime,iron(ii) sulfate,0.858
+737,not in lib,,starch,analcime,gypsum,thallium(i) bromide,iron(ii) sulfate,0.837
+738,not in lib,,cadmium iodide,caesium nitrate,nitrobarite,eudragit l 100,europium oxide,0.880
+739,not in lib,,cadmium iodide,caesium nitrate,eudragit l 100,nitrobarite,alginic acid,0.884
+740,Ammonium Nitrate,,cadmium iodide,talc,caesium nitrate,potassium nitrate,alginic acid,0.892
+741,not in lib,,talc,nitrobarite,cadmium iodide,potassium nitrate,caesium nitrate,0.889
+742,Ammonium Nitrate,,caesium nitrate,talc,cadmium iodide,nitrobarite,potassium nitrate,0.892
+743,not in lib,,caesium nitrate,eudragit l 100,cadmium iodide,talc,nitrobarite,0.891
+744,Ammonium Nitrate,,talc,caesium nitrate,cadmium iodide,eudragit l 100,nitrobarite,0.885
+745,Ammonium Nitrate,,talc,eudragit l 100,caesium nitrate,cadmium iodide,potassium nitrate,0.896
+746,not in lib,,talc,caesium nitrate,cadmium iodide,eudragit l 100,nitrobarite,0.890
+747,not in lib,,cadmium iodide,europium oxide,caesium nitrate,starch,thallium(i) bromide,0.872
+748,Ammonium Nitrate,,zirconium oxide,analcime,cerine,europium oxide,eskolaite,0.779
+749,not in lib,,zirconium oxide,analcime,europium oxide,plattnerite,amylopectin,0.796
+750,Napthalene,,estriol,analcime,zirconium oxide,starch,amylopectin,0.807
+751,Napthalene,,zirconium oxide,analcime,erbium oxide,amylopectin,europium oxide,0.793
+752,Napthalene,,zirconium oxide,analcime,erbium oxide,starch,samarium (iii) oxide,0.794
